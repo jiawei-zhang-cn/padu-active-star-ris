@@ -1,0 +1,18 @@
+{
+  "domains": {
+    "in_domain": {
+      "completed_slots": 192,
+      "joint_qos_outage_count": 27,
+      "joint_qos_outage_rate": 0.140625,
+      "mean_actual_weighted_throughput_bps": 188563823.5,
+      "mean_prediction_nmse": 0.33293542490961653,
+      "mean_control_time_s": 0.0005461885416764288,
+      "maximum_constraint_violation": 2.384185791015625e-07,
+      "mean_design_payload_bits": 16.0,
+      "minimum_design_payload_bits": 16.0,
+      "maximum_design_payload_bits": 16.0
+    }
+  },
+  "output_directory": "results\\depth_ablation_10seed\\L1\\seed_901",
+  "csi_source": "probabilistic_gru_next_slot_distribution"
+}

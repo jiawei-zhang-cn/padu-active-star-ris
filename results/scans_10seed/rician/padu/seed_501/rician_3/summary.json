@@ -1,0 +1,18 @@
+{
+  "domains": {
+    "in_domain": {
+      "completed_slots": 192,
+      "joint_qos_outage_count": 2,
+      "joint_qos_outage_rate": 0.010416666666666666,
+      "mean_actual_weighted_throughput_bps": 215702190.33333334,
+      "mean_prediction_nmse": 0.4663802304615577,
+      "mean_control_time_s": 0.0014558651041814603,
+      "maximum_constraint_violation": 1.1920928955078125e-07,
+      "mean_design_payload_bits": 16.0,
+      "minimum_design_payload_bits": 16.0,
+      "maximum_design_payload_bits": 16.0
+    }
+  },
+  "output_directory": "results\\scans_10seed\\rician\\padu\\seed_501\\rician_3",
+  "csi_source": "probabilistic_gru_next_slot_distribution"
+}

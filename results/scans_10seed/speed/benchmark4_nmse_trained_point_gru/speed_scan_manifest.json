@@ -1,0 +1,32 @@
+{
+  "scan_axis": "speed",
+  "scan_values": [
+    0.3,
+    0.6,
+    0.9,
+    1.2,
+    1.5,
+    1.8
+  ],
+  "evaluation_seeds": [
+    101,
+    201,
+    301,
+    401,
+    501,
+    601,
+    701,
+    801,
+    901,
+    1001
+  ],
+  "evaluation_domains": [
+    "in_domain"
+  ],
+  "non_scanned_factor_sampling": "task_distributions.in_domain_test.user_rician_factor_intervals_db",
+  "system_config_path": "configs/system.padu.json",
+  "run_config_path": "configs/run.test_seed101_mixed.json",
+  "unfolding_config_path": "configs/unfolding.benchmark4_nmse_trained_point_gru.json",
+  "checkpoint_seed_directory": "artifacts/checkpoints/benchmark4_nmse_trained_point_gru",
+  "perfect_next_slot_csi": false
+}

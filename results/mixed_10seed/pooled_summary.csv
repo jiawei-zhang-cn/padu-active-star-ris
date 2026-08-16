@@ -1,0 +1,6 @@
+method,root_seed,domain,valid_slots,joint_qos_outage_count,joint_qos_outage_rate_percent,mean_prediction_nmse,average_sum_throughput_mbit_s,qos_effective_throughput_mbit_s
+padu,pooled,in_domain,1920,36,1.875,0.34035888471795867,202.17680095833333,199.31914537916666
+benchmark1_without_csi_prediction,pooled,in_domain,1920,63,3.28125,0.4446676391138074,196.47740334166667,191.6577203916667
+benchmark2_without_unfolding_refinement,pooled,in_domain,1920,69,3.59375,0.34035888471795867,188.82893085416666,183.75244317083332
+benchmark3_perfect_next_slot_csi,pooled,in_domain,1920,0,0.0,0.0,212.72781237916666,212.72781237916666
+benchmark4_nmse_trained_point_gru,pooled,in_domain,1920,86,4.479166666666667,0.2935605810644726,198.43923072916667,192.61008544583333

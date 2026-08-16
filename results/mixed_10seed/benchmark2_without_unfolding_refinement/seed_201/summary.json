@@ -1,0 +1,18 @@
+{
+  "domains": {
+    "in_domain": {
+      "completed_slots": 192,
+      "joint_qos_outage_count": 2,
+      "joint_qos_outage_rate": 0.010416666666666666,
+      "mean_actual_weighted_throughput_bps": 190546006.58333334,
+      "mean_prediction_nmse": 0.3808942871013035,
+      "mean_control_time_s": 0.00010519999998829614,
+      "maximum_constraint_violation": 2.384185791015625e-07,
+      "mean_design_payload_bits": 16.0,
+      "minimum_design_payload_bits": 16.0,
+      "maximum_design_payload_bits": 16.0
+    }
+  },
+  "output_directory": "results\\mixed_10seed\\benchmark2_without_unfolding_refinement\\seed_201",
+  "csi_source": "probabilistic_gru_next_slot_distribution"
+}

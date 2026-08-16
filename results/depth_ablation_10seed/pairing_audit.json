@@ -1,0 +1,414 @@
+{
+  "schema_version": 1,
+  "all_passed": true,
+  "seeds": [
+    101,
+    201,
+    301,
+    401,
+    501,
+    601,
+    701,
+    801,
+    901,
+    1001
+  ],
+  "depths": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "per_seed": [
+    {
+      "root_seed": 101,
+      "shared_seeds_sha256": "657030e99cddbf4020bd16c2f16a76200855ac68bfee2089946b710e95027788",
+      "shared_task_parameters_sha256": "d757b2e60c813cf0a261c24a13a5404e27b8e17ed4fc2f313123a2013eac1591",
+      "depths": {
+        "1": {
+          "rows": 192,
+          "seeds_sha256_matches": true,
+          "task_parameters_sha256_matches": true,
+          "slot_keys_match": true,
+          "no_duplicate_slot_keys": true,
+          "passed": true
+        },
+        "2": {
+          "rows": 192,
+          "seeds_sha256_matches": true,
+          "task_parameters_sha256_matches": true,
+          "slot_keys_match": true,
+          "no_duplicate_slot_keys": true,
+          "passed": true
+        },
+        "3": {
+          "rows": 192,
+          "seeds_sha256_matches": true,
+          "task_parameters_sha256_matches": true,
+          "slot_keys_match": true,
+          "no_duplicate_slot_keys": true,
+          "passed": true
+        },
+        "4": {
+          "rows": 192,
+          "seeds_sha256_matches": true,
+          "task_parameters_sha256_matches": true,
+          "slot_keys_match": true,
+          "no_duplicate_slot_keys": true,
+          "passed": true
+        }
+      }
+    },
+    {
+      "root_seed": 201,
+      "shared_seeds_sha256": "8bdb69d7ce84ab4baa53cc144301710c917c1182aa026aae5592530528bf3c09",
+      "shared_task_parameters_sha256": "33f4b87cfd786f9f27a9b577e20719c54aa646118f01111dafd34f904ae2b56a",
+      "depths": {
+        "1": {
+          "rows": 192,
+          "seeds_sha256_matches": true,
+          "task_parameters_sha256_matches": true,
+          "slot_keys_match": true,
+          "no_duplicate_slot_keys": true,
+          "passed": true
+        },
+        "2": {
+          "rows": 192,
+          "seeds_sha256_matches": true,
+          "task_parameters_sha256_matches": true,
+          "slot_keys_match": true,
+          "no_duplicate_slot_keys": true,
+          "passed": true
+        },
+        "3": {
+          "rows": 192,
+          "seeds_sha256_matches": true,
+          "task_parameters_sha256_matches": true,
+          "slot_keys_match": true,
+          "no_duplicate_slot_keys": true,
+          "passed": true
+        },
+        "4": {
+          "rows": 192,
+          "seeds_sha256_matches": true,
+          "task_parameters_sha256_matches": true,
+          "slot_keys_match": true,
+          "no_duplicate_slot_keys": true,
+          "passed": true
+        }
+      }
+    },
+    {
+      "root_seed": 301,
+      "shared_seeds_sha256": "007dc9aa314397208dcc5c6d914202379b83aafda34b83f7c807cae606bc2f9a",
+      "shared_task_parameters_sha256": "3e0e54203f50d529cb35bf5756855d9774f0b71c654374f04f1dccaab5a3166e",
+      "depths": {
+        "1": {
+          "rows": 192,
+          "seeds_sha256_matches": true,
+          "task_parameters_sha256_matches": true,
+          "slot_keys_match": true,
+          "no_duplicate_slot_keys": true,
+          "passed": true
+        },
+        "2": {
+          "rows": 192,
+          "seeds_sha256_matches": true,
+          "task_parameters_sha256_matches": true,
+          "slot_keys_match": true,
+          "no_duplicate_slot_keys": true,
+          "passed": true
+        },
+        "3": {
+          "rows": 192,
+          "seeds_sha256_matches": true,
+          "task_parameters_sha256_matches": true,
+          "slot_keys_match": true,
+          "no_duplicate_slot_keys": true,
+          "passed": true
+        },
+        "4": {
+          "rows": 192,
+          "seeds_sha256_matches": true,
+          "task_parameters_sha256_matches": true,
+          "slot_keys_match": true,
+          "no_duplicate_slot_keys": true,
+          "passed": true
+        }
+      }
+    },
+    {
+      "root_seed": 401,
+      "shared_seeds_sha256": "3fb133373d3ed149734f50254708fd799b32cbd588f1fb5cf24b65067c2abc19",
+      "shared_task_parameters_sha256": "9bfcee8670468fd1570ca6b72834e3802c0102e40b767c3c529bd74019a29c48",
+      "depths": {
+        "1": {
+          "rows": 192,
+          "seeds_sha256_matches": true,
+          "task_parameters_sha256_matches": true,
+          "slot_keys_match": true,
+          "no_duplicate_slot_keys": true,
+          "passed": true
+        },
+        "2": {
+          "rows": 192,
+          "seeds_sha256_matches": true,
+          "task_parameters_sha256_matches": true,
+          "slot_keys_match": true,
+          "no_duplicate_slot_keys": true,
+          "passed": true
+        },
+        "3": {
+          "rows": 192,
+          "seeds_sha256_matches": true,
+          "task_parameters_sha256_matches": true,
+          "slot_keys_match": true,
+          "no_duplicate_slot_keys": true,
+          "passed": true
+        },
+        "4": {
+          "rows": 192,
+          "seeds_sha256_matches": true,
+          "task_parameters_sha256_matches": true,
+          "slot_keys_match": true,
+          "no_duplicate_slot_keys": true,
+          "passed": true
+        }
+      }
+    },
+    {
+      "root_seed": 501,
+      "shared_seeds_sha256": "a5c866a22bcde2885c1530573ebc271cc7273291a09dde0137c735ec47af5394",
+      "shared_task_parameters_sha256": "0c490abdcbdae9625567a926bad966977bb8f42c75925900e1d7d9f2e9395bc3",
+      "depths": {
+        "1": {
+          "rows": 192,
+          "seeds_sha256_matches": true,
+          "task_parameters_sha256_matches": true,
+          "slot_keys_match": true,
+          "no_duplicate_slot_keys": true,
+          "passed": true
+        },
+        "2": {
+          "rows": 192,
+          "seeds_sha256_matches": true,
+          "task_parameters_sha256_matches": true,
+          "slot_keys_match": true,
+          "no_duplicate_slot_keys": true,
+          "passed": true
+        },
+        "3": {
+          "rows": 192,
+          "seeds_sha256_matches": true,
+          "task_parameters_sha256_matches": true,
+          "slot_keys_match": true,
+          "no_duplicate_slot_keys": true,
+          "passed": true
+        },
+        "4": {
+          "rows": 192,
+          "seeds_sha256_matches": true,
+          "task_parameters_sha256_matches": true,
+          "slot_keys_match": true,
+          "no_duplicate_slot_keys": true,
+          "passed": true
+        }
+      }
+    },
+    {
+      "root_seed": 601,
+      "shared_seeds_sha256": "b41c31968d7614117c51644df7b4e30e6ecf34faae3dd89db01accf7532f1c6b",
+      "shared_task_parameters_sha256": "879985ec8bf25dca8442ddc371602004e2f08cbe95d19ac3cd3b94d7496e1775",
+      "depths": {
+        "1": {
+          "rows": 192,
+          "seeds_sha256_matches": true,
+          "task_parameters_sha256_matches": true,
+          "slot_keys_match": true,
+          "no_duplicate_slot_keys": true,
+          "passed": true
+        },
+        "2": {
+          "rows": 192,
+          "seeds_sha256_matches": true,
+          "task_parameters_sha256_matches": true,
+          "slot_keys_match": true,
+          "no_duplicate_slot_keys": true,
+          "passed": true
+        },
+        "3": {
+          "rows": 192,
+          "seeds_sha256_matches": true,
+          "task_parameters_sha256_matches": true,
+          "slot_keys_match": true,
+          "no_duplicate_slot_keys": true,
+          "passed": true
+        },
+        "4": {
+          "rows": 192,
+          "seeds_sha256_matches": true,
+          "task_parameters_sha256_matches": true,
+          "slot_keys_match": true,
+          "no_duplicate_slot_keys": true,
+          "passed": true
+        }
+      }
+    },
+    {
+      "root_seed": 701,
+      "shared_seeds_sha256": "30faeadf7e24e46af55b6cf3e143ff8100977b5f98c372f45ee0c0c8f094f2fd",
+      "shared_task_parameters_sha256": "add59649aa6dd626a65bb6b9c167011b97de8149d8dc3fe06039aa199b5e4599",
+      "depths": {
+        "1": {
+          "rows": 192,
+          "seeds_sha256_matches": true,
+          "task_parameters_sha256_matches": true,
+          "slot_keys_match": true,
+          "no_duplicate_slot_keys": true,
+          "passed": true
+        },
+        "2": {
+          "rows": 192,
+          "seeds_sha256_matches": true,
+          "task_parameters_sha256_matches": true,
+          "slot_keys_match": true,
+          "no_duplicate_slot_keys": true,
+          "passed": true
+        },
+        "3": {
+          "rows": 192,
+          "seeds_sha256_matches": true,
+          "task_parameters_sha256_matches": true,
+          "slot_keys_match": true,
+          "no_duplicate_slot_keys": true,
+          "passed": true
+        },
+        "4": {
+          "rows": 192,
+          "seeds_sha256_matches": true,
+          "task_parameters_sha256_matches": true,
+          "slot_keys_match": true,
+          "no_duplicate_slot_keys": true,
+          "passed": true
+        }
+      }
+    },
+    {
+      "root_seed": 801,
+      "shared_seeds_sha256": "181f17b1746c3b2a6da627645258880edb5d57be0b16498e42e25e19201eb027",
+      "shared_task_parameters_sha256": "3c80be7571217667dbbe3ecfc01d5ffbcf0b4531279f9fef8829d43095cf8b4d",
+      "depths": {
+        "1": {
+          "rows": 192,
+          "seeds_sha256_matches": true,
+          "task_parameters_sha256_matches": true,
+          "slot_keys_match": true,
+          "no_duplicate_slot_keys": true,
+          "passed": true
+        },
+        "2": {
+          "rows": 192,
+          "seeds_sha256_matches": true,
+          "task_parameters_sha256_matches": true,
+          "slot_keys_match": true,
+          "no_duplicate_slot_keys": true,
+          "passed": true
+        },
+        "3": {
+          "rows": 192,
+          "seeds_sha256_matches": true,
+          "task_parameters_sha256_matches": true,
+          "slot_keys_match": true,
+          "no_duplicate_slot_keys": true,
+          "passed": true
+        },
+        "4": {
+          "rows": 192,
+          "seeds_sha256_matches": true,
+          "task_parameters_sha256_matches": true,
+          "slot_keys_match": true,
+          "no_duplicate_slot_keys": true,
+          "passed": true
+        }
+      }
+    },
+    {
+      "root_seed": 901,
+      "shared_seeds_sha256": "4a9f1603bf61a2a89811f4c4e326489596a1ab3b0a3682eaa44d8f5940cb5787",
+      "shared_task_parameters_sha256": "fd3c63a2dd42dcf0c76025ce048c20173da1fb2f55446cc86534e71c1721c4f5",
+      "depths": {
+        "1": {
+          "rows": 192,
+          "seeds_sha256_matches": true,
+          "task_parameters_sha256_matches": true,
+          "slot_keys_match": true,
+          "no_duplicate_slot_keys": true,
+          "passed": true
+        },
+        "2": {
+          "rows": 192,
+          "seeds_sha256_matches": true,
+          "task_parameters_sha256_matches": true,
+          "slot_keys_match": true,
+          "no_duplicate_slot_keys": true,
+          "passed": true
+        },
+        "3": {
+          "rows": 192,
+          "seeds_sha256_matches": true,
+          "task_parameters_sha256_matches": true,
+          "slot_keys_match": true,
+          "no_duplicate_slot_keys": true,
+          "passed": true
+        },
+        "4": {
+          "rows": 192,
+          "seeds_sha256_matches": true,
+          "task_parameters_sha256_matches": true,
+          "slot_keys_match": true,
+          "no_duplicate_slot_keys": true,
+          "passed": true
+        }
+      }
+    },
+    {
+      "root_seed": 1001,
+      "shared_seeds_sha256": "9fac3fedeba98600bf49645eb8855e0f15c2181972890642126bf61ca7e33ff2",
+      "shared_task_parameters_sha256": "cd67adfc88d7d606d9f48435ff710455f0c26e8905dcaf8cfc8f76e24a008840",
+      "depths": {
+        "1": {
+          "rows": 192,
+          "seeds_sha256_matches": true,
+          "task_parameters_sha256_matches": true,
+          "slot_keys_match": true,
+          "no_duplicate_slot_keys": true,
+          "passed": true
+        },
+        "2": {
+          "rows": 192,
+          "seeds_sha256_matches": true,
+          "task_parameters_sha256_matches": true,
+          "slot_keys_match": true,
+          "no_duplicate_slot_keys": true,
+          "passed": true
+        },
+        "3": {
+          "rows": 192,
+          "seeds_sha256_matches": true,
+          "task_parameters_sha256_matches": true,
+          "slot_keys_match": true,
+          "no_duplicate_slot_keys": true,
+          "passed": true
+        },
+        "4": {
+          "rows": 192,
+          "seeds_sha256_matches": true,
+          "task_parameters_sha256_matches": true,
+          "slot_keys_match": true,
+          "no_duplicate_slot_keys": true,
+          "passed": true
+        }
+      }
+    }
+  ]
+}

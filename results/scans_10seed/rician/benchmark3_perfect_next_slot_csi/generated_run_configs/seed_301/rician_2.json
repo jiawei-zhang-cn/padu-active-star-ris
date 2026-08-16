@@ -1,0 +1,206 @@
+{
+  "schema_version": 1,
+  "root_seeds": [
+    301
+  ],
+  "require_cuda": true,
+  "architecture": {
+    "gru_hidden_size": 128,
+    "gru_number_of_layers": 1,
+    "warm_start_hidden_widths": [
+      512,
+      256
+    ]
+  },
+  "dataset": {
+    "trajectory_slots": 50,
+    "gru_training_tasks": 256,
+    "gru_validation_tasks": 64,
+    "cold_start_tasks": 16,
+    "meta_training_tasks": 128,
+    "meta_validation_tasks": 32,
+    "in_domain_test_tasks": 4,
+    "out_of_domain_test_tasks": 4,
+    "meta_support_size": 8,
+    "meta_query_size": 16
+  },
+  "physics_loss": {
+    "feasible_mapping_epsilon": 1e-12,
+    "qos_shortfall_penalty_weight": 1.0
+  },
+  "evaluation": {
+    "schemes": [
+      "padu"
+    ],
+    "reference_ao_iterations": 5,
+    "random_raw_standard_deviation": 1.0
+  },
+  "task_distributions": {
+    "training": {
+      "user_speed_intervals_m_per_s": [
+        {
+          "minimum": 0.2,
+          "maximum": 3.0
+        },
+        {
+          "minimum": 0.2,
+          "maximum": 3.0
+        },
+        {
+          "minimum": 0.2,
+          "maximum": 3.0
+        },
+        {
+          "minimum": 0.2,
+          "maximum": 3.0
+        }
+      ],
+      "speed_strata_m_per_s": [
+        {
+          "minimum": 0.2,
+          "maximum": 1.0
+        },
+        {
+          "minimum": 1.0,
+          "maximum": 2.0
+        },
+        {
+          "minimum": 2.0,
+          "maximum": 3.0
+        }
+      ],
+      "user_rician_factor_intervals_db": [
+        {
+          "minimum": 0.0,
+          "maximum": 7.0
+        },
+        {
+          "minimum": 0.0,
+          "maximum": 7.0
+        },
+        {
+          "minimum": 0.0,
+          "maximum": 7.0
+        },
+        {
+          "minimum": 0.0,
+          "maximum": 7.0
+        }
+      ]
+    },
+    "validation": {
+      "user_speed_intervals_m_per_s": [
+        {
+          "minimum": 0.2,
+          "maximum": 3.0
+        },
+        {
+          "minimum": 0.2,
+          "maximum": 3.0
+        },
+        {
+          "minimum": 0.2,
+          "maximum": 3.0
+        },
+        {
+          "minimum": 0.2,
+          "maximum": 3.0
+        }
+      ],
+      "user_rician_factor_intervals_db": [
+        {
+          "minimum": 0.0,
+          "maximum": 7.0
+        },
+        {
+          "minimum": 0.0,
+          "maximum": 7.0
+        },
+        {
+          "minimum": 0.0,
+          "maximum": 7.0
+        },
+        {
+          "minimum": 0.0,
+          "maximum": 7.0
+        }
+      ]
+    },
+    "in_domain_test": {
+      "user_speed_intervals_m_per_s": [
+        {
+          "minimum": 0.3,
+          "maximum": 3.0
+        },
+        {
+          "minimum": 0.3,
+          "maximum": 3.0
+        },
+        {
+          "minimum": 0.3,
+          "maximum": 3.0
+        },
+        {
+          "minimum": 0.3,
+          "maximum": 3.0
+        }
+      ],
+      "user_rician_factor_intervals_db": [
+        {
+          "minimum": 2.0,
+          "maximum": 2.0
+        },
+        {
+          "minimum": 2.0,
+          "maximum": 2.0
+        },
+        {
+          "minimum": 2.0,
+          "maximum": 2.0
+        },
+        {
+          "minimum": 2.0,
+          "maximum": 2.0
+        }
+      ]
+    },
+    "out_of_domain_test": {
+      "user_speed_intervals_m_per_s": [
+        {
+          "minimum": 0.3,
+          "maximum": 1.8
+        },
+        {
+          "minimum": 0.3,
+          "maximum": 1.8
+        },
+        {
+          "minimum": 0.3,
+          "maximum": 1.8
+        },
+        {
+          "minimum": 0.3,
+          "maximum": 1.8
+        }
+      ],
+      "user_rician_factor_intervals_db": [
+        {
+          "minimum": 0.0,
+          "maximum": 7.0
+        },
+        {
+          "minimum": 0.0,
+          "maximum": 7.0
+        },
+        {
+          "minimum": 0.0,
+          "maximum": 7.0
+        },
+        {
+          "minimum": 0.0,
+          "maximum": 7.0
+        }
+      ]
+    }
+  }
+}

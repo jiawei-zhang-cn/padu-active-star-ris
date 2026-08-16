@@ -1,0 +1,18 @@
+{
+  "domains": {
+    "in_domain": {
+      "completed_slots": 192,
+      "joint_qos_outage_count": 7,
+      "joint_qos_outage_rate": 0.036458333333333336,
+      "mean_actual_weighted_throughput_bps": 203221758.91666666,
+      "mean_prediction_nmse": 0.0715195643521535,
+      "mean_control_time_s": 0.0017205046874930001,
+      "maximum_constraint_violation": 2.384185791015625e-07,
+      "mean_design_payload_bits": 16.0,
+      "minimum_design_payload_bits": 16.0,
+      "maximum_design_payload_bits": 16.0
+    }
+  },
+  "output_directory": "results\\scans_10seed\\speed\\benchmark1_without_csi_prediction\\seed_901\\speed_0p6",
+  "csi_source": "latest_observed_csi"
+}

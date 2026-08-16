@@ -1,0 +1,207 @@
+{
+  "all_passed": true,
+  "methods": [
+    "padu",
+    "benchmark1_without_csi_prediction",
+    "benchmark2_without_unfolding_refinement",
+    "benchmark3_perfect_next_slot_csi",
+    "benchmark4_nmse_trained_point_gru"
+  ],
+  "root_seeds": [
+    101,
+    201,
+    301,
+    401,
+    501,
+    601,
+    701,
+    801,
+    901,
+    1001
+  ],
+  "domains": [
+    "in_domain"
+  ],
+  "per_seed": [
+    {
+      "root_seed": 101,
+      "domains": {
+        "in_domain": {
+          "passed": true,
+          "same_slot_keys": true,
+          "same_seeds_json": true,
+          "same_task_parameters_json": true,
+          "slot_key_counts": {
+            "padu": 192,
+            "benchmark1_without_csi_prediction": 192,
+            "benchmark2_without_unfolding_refinement": 192,
+            "benchmark3_perfect_next_slot_csi": 192,
+            "benchmark4_nmse_trained_point_gru": 192
+          }
+        }
+      }
+    },
+    {
+      "root_seed": 201,
+      "domains": {
+        "in_domain": {
+          "passed": true,
+          "same_slot_keys": true,
+          "same_seeds_json": true,
+          "same_task_parameters_json": true,
+          "slot_key_counts": {
+            "padu": 192,
+            "benchmark1_without_csi_prediction": 192,
+            "benchmark2_without_unfolding_refinement": 192,
+            "benchmark3_perfect_next_slot_csi": 192,
+            "benchmark4_nmse_trained_point_gru": 192
+          }
+        }
+      }
+    },
+    {
+      "root_seed": 301,
+      "domains": {
+        "in_domain": {
+          "passed": true,
+          "same_slot_keys": true,
+          "same_seeds_json": true,
+          "same_task_parameters_json": true,
+          "slot_key_counts": {
+            "padu": 192,
+            "benchmark1_without_csi_prediction": 192,
+            "benchmark2_without_unfolding_refinement": 192,
+            "benchmark3_perfect_next_slot_csi": 192,
+            "benchmark4_nmse_trained_point_gru": 192
+          }
+        }
+      }
+    },
+    {
+      "root_seed": 401,
+      "domains": {
+        "in_domain": {
+          "passed": true,
+          "same_slot_keys": true,
+          "same_seeds_json": true,
+          "same_task_parameters_json": true,
+          "slot_key_counts": {
+            "padu": 192,
+            "benchmark1_without_csi_prediction": 192,
+            "benchmark2_without_unfolding_refinement": 192,
+            "benchmark3_perfect_next_slot_csi": 192,
+            "benchmark4_nmse_trained_point_gru": 192
+          }
+        }
+      }
+    },
+    {
+      "root_seed": 501,
+      "domains": {
+        "in_domain": {
+          "passed": true,
+          "same_slot_keys": true,
+          "same_seeds_json": true,
+          "same_task_parameters_json": true,
+          "slot_key_counts": {
+            "padu": 192,
+            "benchmark1_without_csi_prediction": 192,
+            "benchmark2_without_unfolding_refinement": 192,
+            "benchmark3_perfect_next_slot_csi": 192,
+            "benchmark4_nmse_trained_point_gru": 192
+          }
+        }
+      }
+    },
+    {
+      "root_seed": 601,
+      "domains": {
+        "in_domain": {
+          "passed": true,
+          "same_slot_keys": true,
+          "same_seeds_json": true,
+          "same_task_parameters_json": true,
+          "slot_key_counts": {
+            "padu": 192,
+            "benchmark1_without_csi_prediction": 192,
+            "benchmark2_without_unfolding_refinement": 192,
+            "benchmark3_perfect_next_slot_csi": 192,
+            "benchmark4_nmse_trained_point_gru": 192
+          }
+        }
+      }
+    },
+    {
+      "root_seed": 701,
+      "domains": {
+        "in_domain": {
+          "passed": true,
+          "same_slot_keys": true,
+          "same_seeds_json": true,
+          "same_task_parameters_json": true,
+          "slot_key_counts": {
+            "padu": 192,
+            "benchmark1_without_csi_prediction": 192,
+            "benchmark2_without_unfolding_refinement": 192,
+            "benchmark3_perfect_next_slot_csi": 192,
+            "benchmark4_nmse_trained_point_gru": 192
+          }
+        }
+      }
+    },
+    {
+      "root_seed": 801,
+      "domains": {
+        "in_domain": {
+          "passed": true,
+          "same_slot_keys": true,
+          "same_seeds_json": true,
+          "same_task_parameters_json": true,
+          "slot_key_counts": {
+            "padu": 192,
+            "benchmark1_without_csi_prediction": 192,
+            "benchmark2_without_unfolding_refinement": 192,
+            "benchmark3_perfect_next_slot_csi": 192,
+            "benchmark4_nmse_trained_point_gru": 192
+          }
+        }
+      }
+    },
+    {
+      "root_seed": 901,
+      "domains": {
+        "in_domain": {
+          "passed": true,
+          "same_slot_keys": true,
+          "same_seeds_json": true,
+          "same_task_parameters_json": true,
+          "slot_key_counts": {
+            "padu": 192,
+            "benchmark1_without_csi_prediction": 192,
+            "benchmark2_without_unfolding_refinement": 192,
+            "benchmark3_perfect_next_slot_csi": 192,
+            "benchmark4_nmse_trained_point_gru": 192
+          }
+        }
+      }
+    },
+    {
+      "root_seed": 1001,
+      "domains": {
+        "in_domain": {
+          "passed": true,
+          "same_slot_keys": true,
+          "same_seeds_json": true,
+          "same_task_parameters_json": true,
+          "slot_key_counts": {
+            "padu": 192,
+            "benchmark1_without_csi_prediction": 192,
+            "benchmark2_without_unfolding_refinement": 192,
+            "benchmark3_perfect_next_slot_csi": 192,
+            "benchmark4_nmse_trained_point_gru": 192
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "domains": {
+    "in_domain": {
+      "completed_slots": 192,
+      "joint_qos_outage_count": 9,
+      "joint_qos_outage_rate": 0.046875,
+      "mean_actual_weighted_throughput_bps": 170158853.91666666,
+      "mean_prediction_nmse": 0.6866639386862516,
+      "mean_control_time_s": 0.0014492510416630466,
+      "maximum_constraint_violation": 2.384185791015625e-07,
+      "mean_design_payload_bits": 16.0,
+      "minimum_design_payload_bits": 16.0,
+      "maximum_design_payload_bits": 16.0
+    }
+  },
+  "output_directory": "results\\scans_10seed\\rician\\benchmark1_without_csi_prediction\\seed_701\\rician_2",
+  "csi_source": "latest_observed_csi"
+}

@@ -1,0 +1,22 @@
+{
+  "root_seed": 1,
+  "device": "cuda",
+  "training_strategy": "controller_only",
+  "pretrained_predictor_reused": false,
+  "csi_representation_mode": "latest_observed_csi",
+  "pretrained_predictor_directory": null,
+  "training_samples": 36864,
+  "validation_samples": 9216,
+  "preloaded_training_tensors": true,
+  "training_data_loader_workers_used": 0,
+  "best_epoch": 100,
+  "best_validation_total_loss": -3.807195438279046,
+  "predictor_best_epoch": null,
+  "predictor_selection_metric": null,
+  "predictor_best_validation_nmse": null,
+  "predictor_best_validation_nll": null,
+  "controller_best_epoch": 100,
+  "controller_best_validation_physical_loss": -3.807195438279046,
+  "training_time_s": 1265.020215200002,
+  "checkpoint": "artifacts/checkpoints/benchmark1_without_csi_prediction/checkpoints/padu_controller.pt"
+}

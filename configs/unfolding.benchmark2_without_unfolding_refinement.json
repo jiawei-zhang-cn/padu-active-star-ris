@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "architecture": {
+    "unfolding_layers": 3,
+    "initializer_hidden_widths": [512, 256],
+    "initial_primal_step_size": 0.05,
+    "initial_dual_step_size": 1.0,
+    "predictor_input_mode": "channel_only",
+    "design_payload_mode": "business_minimum",
+    "optimization_update_mode": "standard",
+    "control_objective_mode": "max_min_normalized_payload",
+    "csi_representation_mode": "gru_probabilistic",
+    "statistical_scenario_count": 1,
+    "probabilistic_uncertainty_conditioning": false,
+    "controller_refinement_mode": "initializer_only"
+  },
+  "training": {
+    "batch_size": 512,
+    "learning_rate": 0.0001,
+    "epochs": 100,
+    "training_strategy": "predictor_then_controller",
+    "predictor_pretraining_epochs": 60,
+    "validation_interval": 5,
+    "weight_decay": 0.0,
+    "gradient_norm_limit": 1.0,
+    "data_loader_workers": 0,
+    "prediction_loss_weight": 0.0,
+    "qos_shortfall_penalty_weight": 10.0,
+    "joint_qos_shortfall_penalty_weight": 20.0,
+    "intermediate_layer_loss_weight": 0.2
+  },
+  "evaluation": {
+    "batch_size": 128,
+    "data_loader_workers": 0
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "system": "configs\\system.padu.json",
+  "run": "configs\\run.test_seed101_mixed.json",
+  "seeds": [
+    101,
+    201,
+    301,
+    401,
+    501,
+    601,
+    701,
+    801,
+    901,
+    1001
+  ],
+  "depths": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "domains": [
+    "in_domain"
+  ]
+}

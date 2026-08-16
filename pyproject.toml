@@ -1,0 +1,21 @@
+[build-system]
+requires = ["setuptools>=69", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "padu-code"
+version = "1.0.0"
+description = "Submission code for PADU in active STAR-RIS short-packet communication."
+requires-python = ">=3.10,<3.13"
+dependencies = [
+    "matplotlib>=3.8,<4",
+    "numpy>=1.26,<3",
+    "scipy>=1.11,<2",
+    "torch>=2.1",
+]
+
+[project.scripts]
+padu = "padu.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]

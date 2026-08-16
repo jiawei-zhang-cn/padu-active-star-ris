@@ -1,0 +1,1382 @@
+[
+  {
+    "point_key": "seed_101/speed_0p3",
+    "root_seed": 101,
+    "speed_m_per_s": 0.3,
+    "summary": {
+      "domains": {
+        "in_domain": {
+          "completed_slots": 192,
+          "joint_qos_outage_count": 0,
+          "joint_qos_outage_rate": 0.0,
+          "mean_actual_weighted_throughput_bps": 212282088.08333334,
+          "mean_prediction_nmse": 0.045533524884376675,
+          "mean_control_time_s": 0.007821669791667318,
+          "maximum_constraint_violation": 2.384185791015625e-07,
+          "mean_design_payload_bits": 16.0,
+          "minimum_design_payload_bits": 16.0,
+          "maximum_design_payload_bits": 16.0
+        }
+      },
+      "output_directory": "results\\scans_10seed\\speed\\padu\\seed_101\\speed_0p3",
+      "csi_source": "probabilistic_gru_next_slot_distribution"
+    }
+  },
+  {
+    "point_key": "seed_101/speed_0p6",
+    "root_seed": 101,
+    "speed_m_per_s": 0.6,
+    "summary": {
+      "domains": {
+        "in_domain": {
+          "completed_slots": 192,
+          "joint_qos_outage_count": 0,
+          "joint_qos_outage_rate": 0.0,
+          "mean_actual_weighted_throughput_bps": 215326587.16666666,
+          "mean_prediction_nmse": 0.08284999659129728,
+          "mean_control_time_s": 0.0016217692708361635,
+          "maximum_constraint_violation": 2.384185791015625e-07,
+          "mean_design_payload_bits": 16.0,
+          "minimum_design_payload_bits": 16.0,
+          "maximum_design_payload_bits": 16.0
+        }
+      },
+      "output_directory": "results\\scans_10seed\\speed\\padu\\seed_101\\speed_0p6",
+      "csi_source": "probabilistic_gru_next_slot_distribution"
+    }
+  },
+  {
+    "point_key": "seed_101/speed_0p9",
+    "root_seed": 101,
+    "speed_m_per_s": 0.9,
+    "summary": {
+      "domains": {
+        "in_domain": {
+          "completed_slots": 192,
+          "joint_qos_outage_count": 0,
+          "joint_qos_outage_rate": 0.0,
+          "mean_actual_weighted_throughput_bps": 214241690.0,
+          "mean_prediction_nmse": 0.14051171388321868,
+          "mean_control_time_s": 0.0018054093750095035,
+          "maximum_constraint_violation": 2.384185791015625e-07,
+          "mean_design_payload_bits": 16.0,
+          "minimum_design_payload_bits": 16.0,
+          "maximum_design_payload_bits": 16.0
+        }
+      },
+      "output_directory": "results\\scans_10seed\\speed\\padu\\seed_101\\speed_0p9",
+      "csi_source": "probabilistic_gru_next_slot_distribution"
+    }
+  },
+  {
+    "point_key": "seed_101/speed_1p2",
+    "root_seed": 101,
+    "speed_m_per_s": 1.2,
+    "summary": {
+      "domains": {
+        "in_domain": {
+          "completed_slots": 192,
+          "joint_qos_outage_count": 0,
+          "joint_qos_outage_rate": 0.0,
+          "mean_actual_weighted_throughput_bps": 212278544.125,
+          "mean_prediction_nmse": 0.21204168846209845,
+          "mean_control_time_s": 0.0015764729166581521,
+          "maximum_constraint_violation": 2.384185791015625e-07,
+          "mean_design_payload_bits": 16.0,
+          "minimum_design_payload_bits": 16.0,
+          "maximum_design_payload_bits": 16.0
+        }
+      },
+      "output_directory": "results\\scans_10seed\\speed\\padu\\seed_101\\speed_1p2",
+      "csi_source": "probabilistic_gru_next_slot_distribution"
+    }
+  },
+  {
+    "point_key": "seed_101/speed_1p5",
+    "root_seed": 101,
+    "speed_m_per_s": 1.5,
+    "summary": {
+      "domains": {
+        "in_domain": {
+          "completed_slots": 192,
+          "joint_qos_outage_count": 1,
+          "joint_qos_outage_rate": 0.005208333333333333,
+          "mean_actual_weighted_throughput_bps": 209821802.58333334,
+          "mean_prediction_nmse": 0.289741174550727,
+          "mean_control_time_s": 0.0017118109374981334,
+          "maximum_constraint_violation": 2.384185791015625e-07,
+          "mean_design_payload_bits": 16.0,
+          "minimum_design_payload_bits": 16.0,
+          "maximum_design_payload_bits": 16.0
+        }
+      },
+      "output_directory": "results\\scans_10seed\\speed\\padu\\seed_101\\speed_1p5",
+      "csi_source": "probabilistic_gru_next_slot_distribution"
+    }
+  },
+  {
+    "point_key": "seed_101/speed_1p8",
+    "root_seed": 101,
+    "speed_m_per_s": 1.8,
+    "summary": {
+      "domains": {
+        "in_domain": {
+          "completed_slots": 192,
+          "joint_qos_outage_count": 1,
+          "joint_qos_outage_rate": 0.005208333333333333,
+          "mean_actual_weighted_throughput_bps": 207804649.70833334,
+          "mean_prediction_nmse": 0.36646222594815,
+          "mean_control_time_s": 0.0015550197916714599,
+          "maximum_constraint_violation": 2.384185791015625e-07,
+          "mean_design_payload_bits": 16.0,
+          "minimum_design_payload_bits": 16.0,
+          "maximum_design_payload_bits": 16.0
+        }
+      },
+      "output_directory": "results\\scans_10seed\\speed\\padu\\seed_101\\speed_1p8",
+      "csi_source": "probabilistic_gru_next_slot_distribution"
+    }
+  },
+  {
+    "point_key": "seed_201/speed_0p3",
+    "root_seed": 201,
+    "speed_m_per_s": 0.3,
+    "summary": {
+      "domains": {
+        "in_domain": {
+          "completed_slots": 192,
+          "joint_qos_outage_count": 0,
+          "joint_qos_outage_rate": 0.0,
+          "mean_actual_weighted_throughput_bps": 202062896.41666666,
+          "mean_prediction_nmse": 0.05482172112291058,
+          "mean_control_time_s": 0.0018955140625015092,
+          "maximum_constraint_violation": 2.384185791015625e-07,
+          "mean_design_payload_bits": 16.0,
+          "minimum_design_payload_bits": 16.0,
+          "maximum_design_payload_bits": 16.0
+        }
+      },
+      "output_directory": "results\\scans_10seed\\speed\\padu\\seed_201\\speed_0p3",
+      "csi_source": "probabilistic_gru_next_slot_distribution"
+    }
+  },
+  {
+    "point_key": "seed_201/speed_0p6",
+    "root_seed": 201,
+    "speed_m_per_s": 0.6,
+    "summary": {
+      "domains": {
+        "in_domain": {
+          "completed_slots": 192,
+          "joint_qos_outage_count": 0,
+          "joint_qos_outage_rate": 0.0,
+          "mean_actual_weighted_throughput_bps": 201873632.08333334,
+          "mean_prediction_nmse": 0.10202707478310913,
+          "mean_control_time_s": 0.0016290859374900417,
+          "maximum_constraint_violation": 2.384185791015625e-07,
+          "mean_design_payload_bits": 16.0,
+          "minimum_design_payload_bits": 16.0,
+          "maximum_design_payload_bits": 16.0
+        }
+      },
+      "output_directory": "results\\scans_10seed\\speed\\padu\\seed_201\\speed_0p6",
+      "csi_source": "probabilistic_gru_next_slot_distribution"
+    }
+  },
+  {
+    "point_key": "seed_201/speed_0p9",
+    "root_seed": 201,
+    "speed_m_per_s": 0.9,
+    "summary": {
+      "domains": {
+        "in_domain": {
+          "completed_slots": 192,
+          "joint_qos_outage_count": 0,
+          "joint_qos_outage_rate": 0.0,
+          "mean_actual_weighted_throughput_bps": 198788654.58333334,
+          "mean_prediction_nmse": 0.17349768391189477,
+          "mean_control_time_s": 0.0015644744791813991,
+          "maximum_constraint_violation": 2.384185791015625e-07,
+          "mean_design_payload_bits": 16.0,
+          "minimum_design_payload_bits": 16.0,
+          "maximum_design_payload_bits": 16.0
+        }
+      },
+      "output_directory": "results\\scans_10seed\\speed\\padu\\seed_201\\speed_0p9",
+      "csi_source": "probabilistic_gru_next_slot_distribution"
+    }
+  },
+  {
+    "point_key": "seed_201/speed_1p2",
+    "root_seed": 201,
+    "speed_m_per_s": 1.2,
+    "summary": {
+      "domains": {
+        "in_domain": {
+          "completed_slots": 192,
+          "joint_qos_outage_count": 1,
+          "joint_qos_outage_rate": 0.005208333333333333,
+          "mean_actual_weighted_throughput_bps": 195025219.41666666,
+          "mean_prediction_nmse": 0.2618020340645065,
+          "mean_control_time_s": 0.0015289708333246683,
+          "maximum_constraint_violation": 2.384185791015625e-07,
+          "mean_design_payload_bits": 16.0,
+          "minimum_design_payload_bits": 16.0,
+          "maximum_design_payload_bits": 16.0
+        }
+      },
+      "output_directory": "results\\scans_10seed\\speed\\padu\\seed_201\\speed_1p2",
+      "csi_source": "probabilistic_gru_next_slot_distribution"
+    }
+  },
+  {
+    "point_key": "seed_201/speed_1p5",
+    "root_seed": 201,
+    "speed_m_per_s": 1.5,
+    "summary": {
+      "domains": {
+        "in_domain": {
+          "completed_slots": 192,
+          "joint_qos_outage_count": 1,
+          "joint_qos_outage_rate": 0.005208333333333333,
+          "mean_actual_weighted_throughput_bps": 191184051.16666666,
+          "mean_prediction_nmse": 0.35815241063634556,
+          "mean_control_time_s": 0.0016240192708304828,
+          "maximum_constraint_violation": 2.384185791015625e-07,
+          "mean_design_payload_bits": 16.0,
+          "minimum_design_payload_bits": 16.0,
+          "maximum_design_payload_bits": 16.0
+        }
+      },
+      "output_directory": "results\\scans_10seed\\speed\\padu\\seed_201\\speed_1p5",
+      "csi_source": "probabilistic_gru_next_slot_distribution"
+    }
+  },
+  {
+    "point_key": "seed_201/speed_1p8",
+    "root_seed": 201,
+    "speed_m_per_s": 1.8,
+    "summary": {
+      "domains": {
+        "in_domain": {
+          "completed_slots": 192,
+          "joint_qos_outage_count": 1,
+          "joint_qos_outage_rate": 0.005208333333333333,
+          "mean_actual_weighted_throughput_bps": 187568393.25,
+          "mean_prediction_nmse": 0.4539908184669912,
+          "mean_control_time_s": 0.0018424260416812406,
+          "maximum_constraint_violation": 2.384185791015625e-07,
+          "mean_design_payload_bits": 16.0,
+          "minimum_design_payload_bits": 16.0,
+          "maximum_design_payload_bits": 16.0
+        }
+      },
+      "output_directory": "results\\scans_10seed\\speed\\padu\\seed_201\\speed_1p8",
+      "csi_source": "probabilistic_gru_next_slot_distribution"
+    }
+  },
+  {
+    "point_key": "seed_301/speed_0p3",
+    "root_seed": 301,
+    "speed_m_per_s": 0.3,
+    "summary": {
+      "domains": {
+        "in_domain": {
+          "completed_slots": 192,
+          "joint_qos_outage_count": 0,
+          "joint_qos_outage_rate": 0.0,
+          "mean_actual_weighted_throughput_bps": 212522806.33333334,
+          "mean_prediction_nmse": 0.052108528810398035,
+          "mean_control_time_s": 0.0015864499999906911,
+          "maximum_constraint_violation": 2.384185791015625e-07,
+          "mean_design_payload_bits": 16.0,
+          "minimum_design_payload_bits": 16.0,
+          "maximum_design_payload_bits": 16.0
+        }
+      },
+      "output_directory": "results\\scans_10seed\\speed\\padu\\seed_301\\speed_0p3",
+      "csi_source": "probabilistic_gru_next_slot_distribution"
+    }
+  },
+  {
+    "point_key": "seed_301/speed_0p6",
+    "root_seed": 301,
+    "speed_m_per_s": 0.6,
+    "summary": {
+      "domains": {
+        "in_domain": {
+          "completed_slots": 192,
+          "joint_qos_outage_count": 0,
+          "joint_qos_outage_rate": 0.0,
+          "mean_actual_weighted_throughput_bps": 212372918.41666666,
+          "mean_prediction_nmse": 0.09440118807833642,
+          "mean_control_time_s": 0.0014961385416730384,
+          "maximum_constraint_violation": 2.384185791015625e-07,
+          "mean_design_payload_bits": 16.0,
+          "minimum_design_payload_bits": 16.0,
+          "maximum_design_payload_bits": 16.0
+        }
+      },
+      "output_directory": "results\\scans_10seed\\speed\\padu\\seed_301\\speed_0p6",
+      "csi_source": "probabilistic_gru_next_slot_distribution"
+    }
+  },
+  {
+    "point_key": "seed_301/speed_0p9",
+    "root_seed": 301,
+    "speed_m_per_s": 0.9,
+    "summary": {
+      "domains": {
+        "in_domain": {
+          "completed_slots": 192,
+          "joint_qos_outage_count": 0,
+          "joint_qos_outage_rate": 0.0,
+          "mean_actual_weighted_throughput_bps": 209940149.41666666,
+          "mean_prediction_nmse": 0.1597489088308066,
+          "mean_control_time_s": 0.001577472395837276,
+          "maximum_constraint_violation": 2.384185791015625e-07,
+          "mean_design_payload_bits": 16.0,
+          "minimum_design_payload_bits": 16.0,
+          "maximum_design_payload_bits": 16.0
+        }
+      },
+      "output_directory": "results\\scans_10seed\\speed\\padu\\seed_301\\speed_0p9",
+      "csi_source": "probabilistic_gru_next_slot_distribution"
+    }
+  },
+  {
+    "point_key": "seed_301/speed_1p2",
+    "root_seed": 301,
+    "speed_m_per_s": 1.2,
+    "summary": {
+      "domains": {
+        "in_domain": {
+          "completed_slots": 192,
+          "joint_qos_outage_count": 0,
+          "joint_qos_outage_rate": 0.0,
+          "mean_actual_weighted_throughput_bps": 207934773.91666666,
+          "mean_prediction_nmse": 0.24059598823077977,
+          "mean_control_time_s": 0.0016744927083323091,
+          "maximum_constraint_violation": 2.384185791015625e-07,
+          "mean_design_payload_bits": 16.0,
+          "minimum_design_payload_bits": 16.0,
+          "maximum_design_payload_bits": 16.0
+        }
+      },
+      "output_directory": "results\\scans_10seed\\speed\\padu\\seed_301\\speed_1p2",
+      "csi_source": "probabilistic_gru_next_slot_distribution"
+    }
+  },
+  {
+    "point_key": "seed_301/speed_1p5",
+    "root_seed": 301,
+    "speed_m_per_s": 1.5,
+    "summary": {
+      "domains": {
+        "in_domain": {
+          "completed_slots": 192,
+          "joint_qos_outage_count": 1,
+          "joint_qos_outage_rate": 0.005208333333333333,
+          "mean_actual_weighted_throughput_bps": 205394667.625,
+          "mean_prediction_nmse": 0.3284573374936978,
+          "mean_control_time_s": 0.001643040104179742,
+          "maximum_constraint_violation": 2.384185791015625e-07,
+          "mean_design_payload_bits": 16.0,
+          "minimum_design_payload_bits": 16.0,
+          "maximum_design_payload_bits": 16.0
+        }
+      },
+      "output_directory": "results\\scans_10seed\\speed\\padu\\seed_301\\speed_1p5",
+      "csi_source": "probabilistic_gru_next_slot_distribution"
+    }
+  },
+  {
+    "point_key": "seed_301/speed_1p8",
+    "root_seed": 301,
+    "speed_m_per_s": 1.8,
+    "summary": {
+      "domains": {
+        "in_domain": {
+          "completed_slots": 192,
+          "joint_qos_outage_count": 2,
+          "joint_qos_outage_rate": 0.010416666666666666,
+          "mean_actual_weighted_throughput_bps": 202623728.20833334,
+          "mean_prediction_nmse": 0.4152950821444392,
+          "mean_control_time_s": 0.0016752484375122851,
+          "maximum_constraint_violation": 2.384185791015625e-07,
+          "mean_design_payload_bits": 16.0,
+          "minimum_design_payload_bits": 16.0,
+          "maximum_design_payload_bits": 16.0
+        }
+      },
+      "output_directory": "results\\scans_10seed\\speed\\padu\\seed_301\\speed_1p8",
+      "csi_source": "probabilistic_gru_next_slot_distribution"
+    }
+  },
+  {
+    "point_key": "seed_401/speed_0p3",
+    "root_seed": 401,
+    "speed_m_per_s": 0.3,
+    "summary": {
+      "domains": {
+        "in_domain": {
+          "completed_slots": 192,
+          "joint_qos_outage_count": 0,
+          "joint_qos_outage_rate": 0.0,
+          "mean_actual_weighted_throughput_bps": 220533818.58333334,
+          "mean_prediction_nmse": 0.04700762477781003,
+          "mean_control_time_s": 0.0014841755208484149,
+          "maximum_constraint_violation": 2.384185791015625e-07,
+          "mean_design_payload_bits": 16.0,
+          "minimum_design_payload_bits": 16.0,
+          "maximum_design_payload_bits": 16.0
+        }
+      },
+      "output_directory": "results\\scans_10seed\\speed\\padu\\seed_401\\speed_0p3",
+      "csi_source": "probabilistic_gru_next_slot_distribution"
+    }
+  },
+  {
+    "point_key": "seed_401/speed_0p6",
+    "root_seed": 401,
+    "speed_m_per_s": 0.6,
+    "summary": {
+      "domains": {
+        "in_domain": {
+          "completed_slots": 192,
+          "joint_qos_outage_count": 0,
+          "joint_qos_outage_rate": 0.0,
+          "mean_actual_weighted_throughput_bps": 221307895.08333334,
+          "mean_prediction_nmse": 0.08444598028048252,
+          "mean_control_time_s": 0.0017743369791768753,
+          "maximum_constraint_violation": 2.384185791015625e-07,
+          "mean_design_payload_bits": 16.0,
+          "minimum_design_payload_bits": 16.0,
+          "maximum_design_payload_bits": 16.0
+        }
+      },
+      "output_directory": "results\\scans_10seed\\speed\\padu\\seed_401\\speed_0p6",
+      "csi_source": "probabilistic_gru_next_slot_distribution"
+    }
+  },
+  {
+    "point_key": "seed_401/speed_0p9",
+    "root_seed": 401,
+    "speed_m_per_s": 0.9,
+    "summary": {
+      "domains": {
+        "in_domain": {
+          "completed_slots": 192,
+          "joint_qos_outage_count": 0,
+          "joint_qos_outage_rate": 0.0,
+          "mean_actual_weighted_throughput_bps": 220083034.16666666,
+          "mean_prediction_nmse": 0.1424943977035582,
+          "mean_control_time_s": 0.0014613578125022286,
+          "maximum_constraint_violation": 2.384185791015625e-07,
+          "mean_design_payload_bits": 16.0,
+          "minimum_design_payload_bits": 16.0,
+          "maximum_design_payload_bits": 16.0
+        }
+      },
+      "output_directory": "results\\scans_10seed\\speed\\padu\\seed_401\\speed_0p9",
+      "csi_source": "probabilistic_gru_next_slot_distribution"
+    }
+  },
+  {
+    "point_key": "seed_401/speed_1p2",
+    "root_seed": 401,
+    "speed_m_per_s": 1.2,
+    "summary": {
+      "domains": {
+        "in_domain": {
+          "completed_slots": 192,
+          "joint_qos_outage_count": 0,
+          "joint_qos_outage_rate": 0.0,
+          "mean_actual_weighted_throughput_bps": 217870692.0,
+          "mean_prediction_nmse": 0.2139442174229771,
+          "mean_control_time_s": 0.001891565624996853,
+          "maximum_constraint_violation": 2.384185791015625e-07,
+          "mean_design_payload_bits": 16.0,
+          "minimum_design_payload_bits": 16.0,
+          "maximum_design_payload_bits": 16.0
+        }
+      },
+      "output_directory": "results\\scans_10seed\\speed\\padu\\seed_401\\speed_1p2",
+      "csi_source": "probabilistic_gru_next_slot_distribution"
+    }
+  },
+  {
+    "point_key": "seed_401/speed_1p5",
+    "root_seed": 401,
+    "speed_m_per_s": 1.5,
+    "summary": {
+      "domains": {
+        "in_domain": {
+          "completed_slots": 192,
+          "joint_qos_outage_count": 0,
+          "joint_qos_outage_rate": 0.0,
+          "mean_actual_weighted_throughput_bps": 215689244.33333334,
+          "mean_prediction_nmse": 0.29163029161281884,
+          "mean_control_time_s": 0.0016608776041664441,
+          "maximum_constraint_violation": 2.384185791015625e-07,
+          "mean_design_payload_bits": 16.0,
+          "minimum_design_payload_bits": 16.0,
+          "maximum_design_payload_bits": 16.0
+        }
+      },
+      "output_directory": "results\\scans_10seed\\speed\\padu\\seed_401\\speed_1p5",
+      "csi_source": "probabilistic_gru_next_slot_distribution"
+    }
+  },
+  {
+    "point_key": "seed_401/speed_1p8",
+    "root_seed": 401,
+    "speed_m_per_s": 1.8,
+    "summary": {
+      "domains": {
+        "in_domain": {
+          "completed_slots": 192,
+          "joint_qos_outage_count": 0,
+          "joint_qos_outage_rate": 0.0,
+          "mean_actual_weighted_throughput_bps": 213657144.41666666,
+          "mean_prediction_nmse": 0.36846063914708793,
+          "mean_control_time_s": 0.001897143750009415,
+          "maximum_constraint_violation": 2.384185791015625e-07,
+          "mean_design_payload_bits": 16.0,
+          "minimum_design_payload_bits": 16.0,
+          "maximum_design_payload_bits": 16.0
+        }
+      },
+      "output_directory": "results\\scans_10seed\\speed\\padu\\seed_401\\speed_1p8",
+      "csi_source": "probabilistic_gru_next_slot_distribution"
+    }
+  },
+  {
+    "point_key": "seed_501/speed_0p3",
+    "root_seed": 501,
+    "speed_m_per_s": 0.3,
+    "summary": {
+      "domains": {
+        "in_domain": {
+          "completed_slots": 192,
+          "joint_qos_outage_count": 0,
+          "joint_qos_outage_rate": 0.0,
+          "mean_actual_weighted_throughput_bps": 229341215.58333334,
+          "mean_prediction_nmse": 0.043278431675086416,
+          "mean_control_time_s": 0.001586871354154103,
+          "maximum_constraint_violation": 2.384185791015625e-07,
+          "mean_design_payload_bits": 16.0,
+          "minimum_design_payload_bits": 16.0,
+          "maximum_design_payload_bits": 16.0
+        }
+      },
+      "output_directory": "results\\scans_10seed\\speed\\padu\\seed_501\\speed_0p3",
+      "csi_source": "probabilistic_gru_next_slot_distribution"
+    }
+  },
+  {
+    "point_key": "seed_501/speed_0p6",
+    "root_seed": 501,
+    "speed_m_per_s": 0.6,
+    "summary": {
+      "domains": {
+        "in_domain": {
+          "completed_slots": 192,
+          "joint_qos_outage_count": 0,
+          "joint_qos_outage_rate": 0.0,
+          "mean_actual_weighted_throughput_bps": 235330821.83333334,
+          "mean_prediction_nmse": 0.07712585050224637,
+          "mean_control_time_s": 0.0014694901041612714,
+          "maximum_constraint_violation": 2.384185791015625e-07,
+          "mean_design_payload_bits": 16.0,
+          "minimum_design_payload_bits": 16.0,
+          "maximum_design_payload_bits": 16.0
+        }
+      },
+      "output_directory": "results\\scans_10seed\\speed\\padu\\seed_501\\speed_0p6",
+      "csi_source": "probabilistic_gru_next_slot_distribution"
+    }
+  },
+  {
+    "point_key": "seed_501/speed_0p9",
+    "root_seed": 501,
+    "speed_m_per_s": 0.9,
+    "summary": {
+      "domains": {
+        "in_domain": {
+          "completed_slots": 192,
+          "joint_qos_outage_count": 0,
+          "joint_qos_outage_rate": 0.0,
+          "mean_actual_weighted_throughput_bps": 235862790.75,
+          "mean_prediction_nmse": 0.1298301670855532,
+          "mean_control_time_s": 0.0015673244791685192,
+          "maximum_constraint_violation": 2.384185791015625e-07,
+          "mean_design_payload_bits": 16.0,
+          "minimum_design_payload_bits": 16.0,
+          "maximum_design_payload_bits": 16.0
+        }
+      },
+      "output_directory": "results\\scans_10seed\\speed\\padu\\seed_501\\speed_0p9",
+      "csi_source": "probabilistic_gru_next_slot_distribution"
+    }
+  },
+  {
+    "point_key": "seed_501/speed_1p2",
+    "root_seed": 501,
+    "speed_m_per_s": 1.2,
+    "summary": {
+      "domains": {
+        "in_domain": {
+          "completed_slots": 192,
+          "joint_qos_outage_count": 0,
+          "joint_qos_outage_rate": 0.0,
+          "mean_actual_weighted_throughput_bps": 234995129.0,
+          "mean_prediction_nmse": 0.194808667137598,
+          "mean_control_time_s": 0.0015540755208386752,
+          "maximum_constraint_violation": 2.384185791015625e-07,
+          "mean_design_payload_bits": 16.0,
+          "minimum_design_payload_bits": 16.0,
+          "maximum_design_payload_bits": 16.0
+        }
+      },
+      "output_directory": "results\\scans_10seed\\speed\\padu\\seed_501\\speed_1p2",
+      "csi_source": "probabilistic_gru_next_slot_distribution"
+    }
+  },
+  {
+    "point_key": "seed_501/speed_1p5",
+    "root_seed": 501,
+    "speed_m_per_s": 1.5,
+    "summary": {
+      "domains": {
+        "in_domain": {
+          "completed_slots": 192,
+          "joint_qos_outage_count": 0,
+          "joint_qos_outage_rate": 0.0,
+          "mean_actual_weighted_throughput_bps": 233270190.0,
+          "mean_prediction_nmse": 0.2651486820541322,
+          "mean_control_time_s": 0.0017473010416703498,
+          "maximum_constraint_violation": 2.384185791015625e-07,
+          "mean_design_payload_bits": 16.0,
+          "minimum_design_payload_bits": 16.0,
+          "maximum_design_payload_bits": 16.0
+        }
+      },
+      "output_directory": "results\\scans_10seed\\speed\\padu\\seed_501\\speed_1p5",
+      "csi_source": "probabilistic_gru_next_slot_distribution"
+    }
+  },
+  {
+    "point_key": "seed_501/speed_1p8",
+    "root_seed": 501,
+    "speed_m_per_s": 1.8,
+    "summary": {
+      "domains": {
+        "in_domain": {
+          "completed_slots": 192,
+          "joint_qos_outage_count": 0,
+          "joint_qos_outage_rate": 0.0,
+          "mean_actual_weighted_throughput_bps": 231568463.75,
+          "mean_prediction_nmse": 0.3344966263199846,
+          "mean_control_time_s": 0.001481907291671784,
+          "maximum_constraint_violation": 2.384185791015625e-07,
+          "mean_design_payload_bits": 16.0,
+          "minimum_design_payload_bits": 16.0,
+          "maximum_design_payload_bits": 16.0
+        }
+      },
+      "output_directory": "results\\scans_10seed\\speed\\padu\\seed_501\\speed_1p8",
+      "csi_source": "probabilistic_gru_next_slot_distribution"
+    }
+  },
+  {
+    "point_key": "seed_601/speed_0p3",
+    "root_seed": 601,
+    "speed_m_per_s": 0.3,
+    "summary": {
+      "domains": {
+        "in_domain": {
+          "completed_slots": 192,
+          "joint_qos_outage_count": 0,
+          "joint_qos_outage_rate": 0.0,
+          "mean_actual_weighted_throughput_bps": 210562642.0,
+          "mean_prediction_nmse": 0.054073846995985754,
+          "mean_control_time_s": 0.001635002604170192,
+          "maximum_constraint_violation": 2.384185791015625e-07,
+          "mean_design_payload_bits": 16.0,
+          "minimum_design_payload_bits": 16.0,
+          "maximum_design_payload_bits": 16.0
+        }
+      },
+      "output_directory": "results\\scans_10seed\\speed\\padu\\seed_601\\speed_0p3",
+      "csi_source": "probabilistic_gru_next_slot_distribution"
+    }
+  },
+  {
+    "point_key": "seed_601/speed_0p6",
+    "root_seed": 601,
+    "speed_m_per_s": 0.6,
+    "summary": {
+      "domains": {
+        "in_domain": {
+          "completed_slots": 192,
+          "joint_qos_outage_count": 0,
+          "joint_qos_outage_rate": 0.0,
+          "mean_actual_weighted_throughput_bps": 202314895.83333334,
+          "mean_prediction_nmse": 0.10204830940347165,
+          "mean_control_time_s": 0.0016674505208319108,
+          "maximum_constraint_violation": 2.384185791015625e-07,
+          "mean_design_payload_bits": 16.0,
+          "minimum_design_payload_bits": 16.0,
+          "maximum_design_payload_bits": 16.0
+        }
+      },
+      "output_directory": "results\\scans_10seed\\speed\\padu\\seed_601\\speed_0p6",
+      "csi_source": "probabilistic_gru_next_slot_distribution"
+    }
+  },
+  {
+    "point_key": "seed_601/speed_0p9",
+    "root_seed": 601,
+    "speed_m_per_s": 0.9,
+    "summary": {
+      "domains": {
+        "in_domain": {
+          "completed_slots": 192,
+          "joint_qos_outage_count": 0,
+          "joint_qos_outage_rate": 0.0,
+          "mean_actual_weighted_throughput_bps": 198420161.66666666,
+          "mean_prediction_nmse": 0.17419634580922624,
+          "mean_control_time_s": 0.0017366026041543137,
+          "maximum_constraint_violation": 2.384185791015625e-07,
+          "mean_design_payload_bits": 16.0,
+          "minimum_design_payload_bits": 16.0,
+          "maximum_design_payload_bits": 16.0
+        }
+      },
+      "output_directory": "results\\scans_10seed\\speed\\padu\\seed_601\\speed_0p9",
+      "csi_source": "probabilistic_gru_next_slot_distribution"
+    }
+  },
+  {
+    "point_key": "seed_601/speed_1p2",
+    "root_seed": 601,
+    "speed_m_per_s": 1.2,
+    "summary": {
+      "domains": {
+        "in_domain": {
+          "completed_slots": 192,
+          "joint_qos_outage_count": 3,
+          "joint_qos_outage_rate": 0.015625,
+          "mean_actual_weighted_throughput_bps": 195119415.16666666,
+          "mean_prediction_nmse": 0.2630407676721613,
+          "mean_control_time_s": 0.0018242630208267958,
+          "maximum_constraint_violation": 2.384185791015625e-07,
+          "mean_design_payload_bits": 16.0,
+          "minimum_design_payload_bits": 16.0,
+          "maximum_design_payload_bits": 16.0
+        }
+      },
+      "output_directory": "results\\scans_10seed\\speed\\padu\\seed_601\\speed_1p2",
+      "csi_source": "probabilistic_gru_next_slot_distribution"
+    }
+  },
+  {
+    "point_key": "seed_601/speed_1p5",
+    "root_seed": 601,
+    "speed_m_per_s": 1.5,
+    "summary": {
+      "domains": {
+        "in_domain": {
+          "completed_slots": 192,
+          "joint_qos_outage_count": 3,
+          "joint_qos_outage_rate": 0.015625,
+          "mean_actual_weighted_throughput_bps": 191836316.375,
+          "mean_prediction_nmse": 0.36010237876325846,
+          "mean_control_time_s": 0.0018156020833259845,
+          "maximum_constraint_violation": 2.384185791015625e-07,
+          "mean_design_payload_bits": 16.0,
+          "minimum_design_payload_bits": 16.0,
+          "maximum_design_payload_bits": 16.0
+        }
+      },
+      "output_directory": "results\\scans_10seed\\speed\\padu\\seed_601\\speed_1p5",
+      "csi_source": "probabilistic_gru_next_slot_distribution"
+    }
+  },
+  {
+    "point_key": "seed_601/speed_1p8",
+    "root_seed": 601,
+    "speed_m_per_s": 1.8,
+    "summary": {
+      "domains": {
+        "in_domain": {
+          "completed_slots": 192,
+          "joint_qos_outage_count": 5,
+          "joint_qos_outage_rate": 0.026041666666666668,
+          "mean_actual_weighted_throughput_bps": 188525399.79166666,
+          "mean_prediction_nmse": 0.4567960579879582,
+          "mean_control_time_s": 0.0018453031249900202,
+          "maximum_constraint_violation": 2.384185791015625e-07,
+          "mean_design_payload_bits": 16.0,
+          "minimum_design_payload_bits": 16.0,
+          "maximum_design_payload_bits": 16.0
+        }
+      },
+      "output_directory": "results\\scans_10seed\\speed\\padu\\seed_601\\speed_1p8",
+      "csi_source": "probabilistic_gru_next_slot_distribution"
+    }
+  },
+  {
+    "point_key": "seed_701/speed_0p3",
+    "root_seed": 701,
+    "speed_m_per_s": 0.3,
+    "summary": {
+      "domains": {
+        "in_domain": {
+          "completed_slots": 192,
+          "joint_qos_outage_count": 0,
+          "joint_qos_outage_rate": 0.0,
+          "mean_actual_weighted_throughput_bps": 212527713.0,
+          "mean_prediction_nmse": 0.04540082187547038,
+          "mean_control_time_s": 0.0016854229166654022,
+          "maximum_constraint_violation": 2.384185791015625e-07,
+          "mean_design_payload_bits": 16.0,
+          "minimum_design_payload_bits": 16.0,
+          "maximum_design_payload_bits": 16.0
+        }
+      },
+      "output_directory": "results\\scans_10seed\\speed\\padu\\seed_701\\speed_0p3",
+      "csi_source": "probabilistic_gru_next_slot_distribution"
+    }
+  },
+  {
+    "point_key": "seed_701/speed_0p6",
+    "root_seed": 701,
+    "speed_m_per_s": 0.6,
+    "summary": {
+      "domains": {
+        "in_domain": {
+          "completed_slots": 192,
+          "joint_qos_outage_count": 0,
+          "joint_qos_outage_rate": 0.0,
+          "mean_actual_weighted_throughput_bps": 213708396.58333334,
+          "mean_prediction_nmse": 0.08108053238053496,
+          "mean_control_time_s": 0.0015243140625026779,
+          "maximum_constraint_violation": 2.384185791015625e-07,
+          "mean_design_payload_bits": 16.0,
+          "minimum_design_payload_bits": 16.0,
+          "maximum_design_payload_bits": 16.0
+        }
+      },
+      "output_directory": "results\\scans_10seed\\speed\\padu\\seed_701\\speed_0p6",
+      "csi_source": "probabilistic_gru_next_slot_distribution"
+    }
+  },
+  {
+    "point_key": "seed_701/speed_0p9",
+    "root_seed": 701,
+    "speed_m_per_s": 0.9,
+    "summary": {
+      "domains": {
+        "in_domain": {
+          "completed_slots": 192,
+          "joint_qos_outage_count": 0,
+          "joint_qos_outage_rate": 0.0,
+          "mean_actual_weighted_throughput_bps": 211763992.16666666,
+          "mean_prediction_nmse": 0.13615005350826928,
+          "mean_control_time_s": 0.0015754822916846933,
+          "maximum_constraint_violation": 2.384185791015625e-07,
+          "mean_design_payload_bits": 16.0,
+          "minimum_design_payload_bits": 16.0,
+          "maximum_design_payload_bits": 16.0
+        }
+      },
+      "output_directory": "results\\scans_10seed\\speed\\padu\\seed_701\\speed_0p9",
+      "csi_source": "probabilistic_gru_next_slot_distribution"
+    }
+  },
+  {
+    "point_key": "seed_701/speed_1p2",
+    "root_seed": 701,
+    "speed_m_per_s": 1.2,
+    "summary": {
+      "domains": {
+        "in_domain": {
+          "completed_slots": 192,
+          "joint_qos_outage_count": 0,
+          "joint_qos_outage_rate": 0.0,
+          "mean_actual_weighted_throughput_bps": 209850970.41666666,
+          "mean_prediction_nmse": 0.20445715604970852,
+          "mean_control_time_s": 0.0015648239583375319,
+          "maximum_constraint_violation": 2.384185791015625e-07,
+          "mean_design_payload_bits": 16.0,
+          "minimum_design_payload_bits": 16.0,
+          "maximum_design_payload_bits": 16.0
+        }
+      },
+      "output_directory": "results\\scans_10seed\\speed\\padu\\seed_701\\speed_1p2",
+      "csi_source": "probabilistic_gru_next_slot_distribution"
+    }
+  },
+  {
+    "point_key": "seed_701/speed_1p5",
+    "root_seed": 701,
+    "speed_m_per_s": 1.5,
+    "summary": {
+      "domains": {
+        "in_domain": {
+          "completed_slots": 192,
+          "joint_qos_outage_count": 0,
+          "joint_qos_outage_rate": 0.0,
+          "mean_actual_weighted_throughput_bps": 207638006.66666666,
+          "mean_prediction_nmse": 0.2789614296052605,
+          "mean_control_time_s": 0.0014812760416684039,
+          "maximum_constraint_violation": 2.384185791015625e-07,
+          "mean_design_payload_bits": 16.0,
+          "minimum_design_payload_bits": 16.0,
+          "maximum_design_payload_bits": 16.0
+        }
+      },
+      "output_directory": "results\\scans_10seed\\speed\\padu\\seed_701\\speed_1p5",
+      "csi_source": "probabilistic_gru_next_slot_distribution"
+    }
+  },
+  {
+    "point_key": "seed_701/speed_1p8",
+    "root_seed": 701,
+    "speed_m_per_s": 1.8,
+    "summary": {
+      "domains": {
+        "in_domain": {
+          "completed_slots": 192,
+          "joint_qos_outage_count": 0,
+          "joint_qos_outage_rate": 0.0,
+          "mean_actual_weighted_throughput_bps": 205581464.91666666,
+          "mean_prediction_nmse": 0.35299183273067075,
+          "mean_control_time_s": 0.0016188536458230374,
+          "maximum_constraint_violation": 2.384185791015625e-07,
+          "mean_design_payload_bits": 16.0,
+          "minimum_design_payload_bits": 16.0,
+          "maximum_design_payload_bits": 16.0
+        }
+      },
+      "output_directory": "results\\scans_10seed\\speed\\padu\\seed_701\\speed_1p8",
+      "csi_source": "probabilistic_gru_next_slot_distribution"
+    }
+  },
+  {
+    "point_key": "seed_801/speed_0p3",
+    "root_seed": 801,
+    "speed_m_per_s": 0.3,
+    "summary": {
+      "domains": {
+        "in_domain": {
+          "completed_slots": 192,
+          "joint_qos_outage_count": 0,
+          "joint_qos_outage_rate": 0.0,
+          "mean_actual_weighted_throughput_bps": 196049677.41666666,
+          "mean_prediction_nmse": 0.05303171894047409,
+          "mean_control_time_s": 0.001606748437486279,
+          "maximum_constraint_violation": 2.384185791015625e-07,
+          "mean_design_payload_bits": 16.0,
+          "minimum_design_payload_bits": 16.0,
+          "maximum_design_payload_bits": 16.0
+        }
+      },
+      "output_directory": "results\\scans_10seed\\speed\\padu\\seed_801\\speed_0p3",
+      "csi_source": "probabilistic_gru_next_slot_distribution"
+    }
+  },
+  {
+    "point_key": "seed_801/speed_0p6",
+    "root_seed": 801,
+    "speed_m_per_s": 0.6,
+    "summary": {
+      "domains": {
+        "in_domain": {
+          "completed_slots": 192,
+          "joint_qos_outage_count": 0,
+          "joint_qos_outage_rate": 0.0,
+          "mean_actual_weighted_throughput_bps": 202286218.5,
+          "mean_prediction_nmse": 0.09932674828451127,
+          "mean_control_time_s": 0.0016257687499887652,
+          "maximum_constraint_violation": 2.384185791015625e-07,
+          "mean_design_payload_bits": 16.0,
+          "minimum_design_payload_bits": 16.0,
+          "maximum_design_payload_bits": 16.0
+        }
+      },
+      "output_directory": "results\\scans_10seed\\speed\\padu\\seed_801\\speed_0p6",
+      "csi_source": "probabilistic_gru_next_slot_distribution"
+    }
+  },
+  {
+    "point_key": "seed_801/speed_0p9",
+    "root_seed": 801,
+    "speed_m_per_s": 0.9,
+    "summary": {
+      "domains": {
+        "in_domain": {
+          "completed_slots": 192,
+          "joint_qos_outage_count": 0,
+          "joint_qos_outage_rate": 0.0,
+          "mean_actual_weighted_throughput_bps": 203565712.66666666,
+          "mean_prediction_nmse": 0.1691367121723791,
+          "mean_control_time_s": 0.0018695223958407798,
+          "maximum_constraint_violation": 2.384185791015625e-07,
+          "mean_design_payload_bits": 16.0,
+          "minimum_design_payload_bits": 16.0,
+          "maximum_design_payload_bits": 16.0
+        }
+      },
+      "output_directory": "results\\scans_10seed\\speed\\padu\\seed_801\\speed_0p9",
+      "csi_source": "probabilistic_gru_next_slot_distribution"
+    }
+  },
+  {
+    "point_key": "seed_801/speed_1p2",
+    "root_seed": 801,
+    "speed_m_per_s": 1.2,
+    "summary": {
+      "domains": {
+        "in_domain": {
+          "completed_slots": 192,
+          "joint_qos_outage_count": 0,
+          "joint_qos_outage_rate": 0.0,
+          "mean_actual_weighted_throughput_bps": 202743747.33333334,
+          "mean_prediction_nmse": 0.2553171452600509,
+          "mean_control_time_s": 0.0017535463541662466,
+          "maximum_constraint_violation": 2.384185791015625e-07,
+          "mean_design_payload_bits": 16.0,
+          "minimum_design_payload_bits": 16.0,
+          "maximum_design_payload_bits": 16.0
+        }
+      },
+      "output_directory": "results\\scans_10seed\\speed\\padu\\seed_801\\speed_1p2",
+      "csi_source": "probabilistic_gru_next_slot_distribution"
+    }
+  },
+  {
+    "point_key": "seed_801/speed_1p5",
+    "root_seed": 801,
+    "speed_m_per_s": 1.5,
+    "summary": {
+      "domains": {
+        "in_domain": {
+          "completed_slots": 192,
+          "joint_qos_outage_count": 1,
+          "joint_qos_outage_rate": 0.005208333333333333,
+          "mean_actual_weighted_throughput_bps": 201642949.33333334,
+          "mean_prediction_nmse": 0.349445022487392,
+          "mean_control_time_s": 0.0015170848958329468,
+          "maximum_constraint_violation": 2.384185791015625e-07,
+          "mean_design_payload_bits": 16.0,
+          "minimum_design_payload_bits": 16.0,
+          "maximum_design_payload_bits": 16.0
+        }
+      },
+      "output_directory": "results\\scans_10seed\\speed\\padu\\seed_801\\speed_1p5",
+      "csi_source": "probabilistic_gru_next_slot_distribution"
+    }
+  },
+  {
+    "point_key": "seed_801/speed_1p8",
+    "root_seed": 801,
+    "speed_m_per_s": 1.8,
+    "summary": {
+      "domains": {
+        "in_domain": {
+          "completed_slots": 192,
+          "joint_qos_outage_count": 1,
+          "joint_qos_outage_rate": 0.005208333333333333,
+          "mean_actual_weighted_throughput_bps": 199677317.16666666,
+          "mean_prediction_nmse": 0.44312143869077164,
+          "mean_control_time_s": 0.0018645677083384271,
+          "maximum_constraint_violation": 2.384185791015625e-07,
+          "mean_design_payload_bits": 16.0,
+          "minimum_design_payload_bits": 16.0,
+          "maximum_design_payload_bits": 16.0
+        }
+      },
+      "output_directory": "results\\scans_10seed\\speed\\padu\\seed_801\\speed_1p8",
+      "csi_source": "probabilistic_gru_next_slot_distribution"
+    }
+  },
+  {
+    "point_key": "seed_901/speed_0p3",
+    "root_seed": 901,
+    "speed_m_per_s": 0.3,
+    "summary": {
+      "domains": {
+        "in_domain": {
+          "completed_slots": 192,
+          "joint_qos_outage_count": 0,
+          "joint_qos_outage_rate": 0.0,
+          "mean_actual_weighted_throughput_bps": 216644898.0,
+          "mean_prediction_nmse": 0.04851334091896812,
+          "mean_control_time_s": 0.001631621354173755,
+          "maximum_constraint_violation": 2.384185791015625e-07,
+          "mean_design_payload_bits": 16.0,
+          "minimum_design_payload_bits": 16.0,
+          "maximum_design_payload_bits": 16.0
+        }
+      },
+      "output_directory": "results\\scans_10seed\\speed\\padu\\seed_901\\speed_0p3",
+      "csi_source": "probabilistic_gru_next_slot_distribution"
+    }
+  },
+  {
+    "point_key": "seed_901/speed_0p6",
+    "root_seed": 901,
+    "speed_m_per_s": 0.6,
+    "summary": {
+      "domains": {
+        "in_domain": {
+          "completed_slots": 192,
+          "joint_qos_outage_count": 0,
+          "joint_qos_outage_rate": 0.0,
+          "mean_actual_weighted_throughput_bps": 210688991.25,
+          "mean_prediction_nmse": 0.08647376254278545,
+          "mean_control_time_s": 0.0017628765624995897,
+          "maximum_constraint_violation": 2.384185791015625e-07,
+          "mean_design_payload_bits": 16.0,
+          "minimum_design_payload_bits": 16.0,
+          "maximum_design_payload_bits": 16.0
+        }
+      },
+      "output_directory": "results\\scans_10seed\\speed\\padu\\seed_901\\speed_0p6",
+      "csi_source": "probabilistic_gru_next_slot_distribution"
+    }
+  },
+  {
+    "point_key": "seed_901/speed_0p9",
+    "root_seed": 901,
+    "speed_m_per_s": 0.9,
+    "summary": {
+      "domains": {
+        "in_domain": {
+          "completed_slots": 192,
+          "joint_qos_outage_count": 0,
+          "joint_qos_outage_rate": 0.0,
+          "mean_actual_weighted_throughput_bps": 205472997.75,
+          "mean_prediction_nmse": 0.14617403984690705,
+          "mean_control_time_s": 0.0018614906250036258,
+          "maximum_constraint_violation": 2.384185791015625e-07,
+          "mean_design_payload_bits": 16.0,
+          "minimum_design_payload_bits": 16.0,
+          "maximum_design_payload_bits": 16.0
+        }
+      },
+      "output_directory": "results\\scans_10seed\\speed\\padu\\seed_901\\speed_0p9",
+      "csi_source": "probabilistic_gru_next_slot_distribution"
+    }
+  },
+  {
+    "point_key": "seed_901/speed_1p2",
+    "root_seed": 901,
+    "speed_m_per_s": 1.2,
+    "summary": {
+      "domains": {
+        "in_domain": {
+          "completed_slots": 192,
+          "joint_qos_outage_count": 0,
+          "joint_qos_outage_rate": 0.0,
+          "mean_actual_weighted_throughput_bps": 201890088.25,
+          "mean_prediction_nmse": 0.22014818821723262,
+          "mean_control_time_s": 0.0018000322916596663,
+          "maximum_constraint_violation": 2.384185791015625e-07,
+          "mean_design_payload_bits": 16.0,
+          "minimum_design_payload_bits": 16.0,
+          "maximum_design_payload_bits": 16.0
+        }
+      },
+      "output_directory": "results\\scans_10seed\\speed\\padu\\seed_901\\speed_1p2",
+      "csi_source": "probabilistic_gru_next_slot_distribution"
+    }
+  },
+  {
+    "point_key": "seed_901/speed_1p5",
+    "root_seed": 901,
+    "speed_m_per_s": 1.5,
+    "summary": {
+      "domains": {
+        "in_domain": {
+          "completed_slots": 192,
+          "joint_qos_outage_count": 1,
+          "joint_qos_outage_rate": 0.005208333333333333,
+          "mean_actual_weighted_throughput_bps": 198664012.5,
+          "mean_prediction_nmse": 0.30056934578654665,
+          "mean_control_time_s": 0.002127871354180873,
+          "maximum_constraint_violation": 2.384185791015625e-07,
+          "mean_design_payload_bits": 16.0,
+          "minimum_design_payload_bits": 16.0,
+          "maximum_design_payload_bits": 16.0
+        }
+      },
+      "output_directory": "results\\scans_10seed\\speed\\padu\\seed_901\\speed_1p5",
+      "csi_source": "probabilistic_gru_next_slot_distribution"
+    }
+  },
+  {
+    "point_key": "seed_901/speed_1p8",
+    "root_seed": 901,
+    "speed_m_per_s": 1.8,
+    "summary": {
+      "domains": {
+        "in_domain": {
+          "completed_slots": 192,
+          "joint_qos_outage_count": 1,
+          "joint_qos_outage_rate": 0.005208333333333333,
+          "mean_actual_weighted_throughput_bps": 195984168.75,
+          "mean_prediction_nmse": 0.3800990777090192,
+          "mean_control_time_s": 0.002225410416665833,
+          "maximum_constraint_violation": 2.384185791015625e-07,
+          "mean_design_payload_bits": 16.0,
+          "minimum_design_payload_bits": 16.0,
+          "maximum_design_payload_bits": 16.0
+        }
+      },
+      "output_directory": "results\\scans_10seed\\speed\\padu\\seed_901\\speed_1p8",
+      "csi_source": "probabilistic_gru_next_slot_distribution"
+    }
+  },
+  {
+    "point_key": "seed_1001/speed_0p3",
+    "root_seed": 1001,
+    "speed_m_per_s": 0.3,
+    "summary": {
+      "domains": {
+        "in_domain": {
+          "completed_slots": 192,
+          "joint_qos_outage_count": 0,
+          "joint_qos_outage_rate": 0.0,
+          "mean_actual_weighted_throughput_bps": 240328142.0,
+          "mean_prediction_nmse": 0.044676881399936974,
+          "mean_control_time_s": 0.0017015989583342161,
+          "maximum_constraint_violation": 2.384185791015625e-07,
+          "mean_design_payload_bits": 16.0,
+          "minimum_design_payload_bits": 16.0,
+          "maximum_design_payload_bits": 16.0
+        }
+      },
+      "output_directory": "results\\scans_10seed\\speed\\padu\\seed_1001\\speed_0p3",
+      "csi_source": "probabilistic_gru_next_slot_distribution"
+    }
+  },
+  {
+    "point_key": "seed_1001/speed_0p6",
+    "root_seed": 1001,
+    "speed_m_per_s": 0.6,
+    "summary": {
+      "domains": {
+        "in_domain": {
+          "completed_slots": 192,
+          "joint_qos_outage_count": 0,
+          "joint_qos_outage_rate": 0.0,
+          "mean_actual_weighted_throughput_bps": 233879961.33333334,
+          "mean_prediction_nmse": 0.08210915016631286,
+          "mean_control_time_s": 0.0020464151041608147,
+          "maximum_constraint_violation": 2.384185791015625e-07,
+          "mean_design_payload_bits": 16.0,
+          "minimum_design_payload_bits": 16.0,
+          "maximum_design_payload_bits": 16.0
+        }
+      },
+      "output_directory": "results\\scans_10seed\\speed\\padu\\seed_1001\\speed_0p6",
+      "csi_source": "probabilistic_gru_next_slot_distribution"
+    }
+  },
+  {
+    "point_key": "seed_1001/speed_0p9",
+    "root_seed": 1001,
+    "speed_m_per_s": 0.9,
+    "summary": {
+      "domains": {
+        "in_domain": {
+          "completed_slots": 192,
+          "joint_qos_outage_count": 0,
+          "joint_qos_outage_rate": 0.0,
+          "mean_actual_weighted_throughput_bps": 228248283.58333334,
+          "mean_prediction_nmse": 0.13975543691776693,
+          "mean_control_time_s": 0.002092337500016584,
+          "maximum_constraint_violation": 2.384185791015625e-07,
+          "mean_design_payload_bits": 16.0,
+          "minimum_design_payload_bits": 16.0,
+          "maximum_design_payload_bits": 16.0
+        }
+      },
+      "output_directory": "results\\scans_10seed\\speed\\padu\\seed_1001\\speed_0p9",
+      "csi_source": "probabilistic_gru_next_slot_distribution"
+    }
+  },
+  {
+    "point_key": "seed_1001/speed_1p2",
+    "root_seed": 1001,
+    "speed_m_per_s": 1.2,
+    "summary": {
+      "domains": {
+        "in_domain": {
+          "completed_slots": 192,
+          "joint_qos_outage_count": 0,
+          "joint_qos_outage_rate": 0.0,
+          "mean_actual_weighted_throughput_bps": 223768761.08333334,
+          "mean_prediction_nmse": 0.21040170189614096,
+          "mean_control_time_s": 0.0016778687500125973,
+          "maximum_constraint_violation": 2.384185791015625e-07,
+          "mean_design_payload_bits": 16.0,
+          "minimum_design_payload_bits": 16.0,
+          "maximum_design_payload_bits": 16.0
+        }
+      },
+      "output_directory": "results\\scans_10seed\\speed\\padu\\seed_1001\\speed_1p2",
+      "csi_source": "probabilistic_gru_next_slot_distribution"
+    }
+  },
+  {
+    "point_key": "seed_1001/speed_1p5",
+    "root_seed": 1001,
+    "speed_m_per_s": 1.5,
+    "summary": {
+      "domains": {
+        "in_domain": {
+          "completed_slots": 192,
+          "joint_qos_outage_count": 0,
+          "joint_qos_outage_rate": 0.0,
+          "mean_actual_weighted_throughput_bps": 220443466.83333334,
+          "mean_prediction_nmse": 0.2869050191560139,
+          "mean_control_time_s": 0.0017613151041662907,
+          "maximum_constraint_violation": 2.384185791015625e-07,
+          "mean_design_payload_bits": 16.0,
+          "minimum_design_payload_bits": 16.0,
+          "maximum_design_payload_bits": 16.0
+        }
+      },
+      "output_directory": "results\\scans_10seed\\speed\\padu\\seed_1001\\speed_1p5",
+      "csi_source": "probabilistic_gru_next_slot_distribution"
+    }
+  },
+  {
+    "point_key": "seed_1001/speed_1p8",
+    "root_seed": 1001,
+    "speed_m_per_s": 1.8,
+    "summary": {
+      "domains": {
+        "in_domain": {
+          "completed_slots": 192,
+          "joint_qos_outage_count": 0,
+          "joint_qos_outage_rate": 0.0,
+          "mean_actual_weighted_throughput_bps": 217330900.25,
+          "mean_prediction_nmse": 0.3626752798445523,
+          "mean_control_time_s": 0.0017547843750188956,
+          "maximum_constraint_violation": 2.384185791015625e-07,
+          "mean_design_payload_bits": 16.0,
+          "minimum_design_payload_bits": 16.0,
+          "maximum_design_payload_bits": 16.0
+        }
+      },
+      "output_directory": "results\\scans_10seed\\speed\\padu\\seed_1001\\speed_1p8",
+      "csi_source": "probabilistic_gru_next_slot_distribution"
+    }
+  }
+]

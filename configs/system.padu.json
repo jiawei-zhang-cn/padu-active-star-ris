@@ -1,0 +1,67 @@
+{
+  "schema_version": 1,
+  "array": {
+    "bs_antennas": 8,
+    "star_rows": 8,
+    "star_columns": 8,
+    "bs_spacing_wavelengths": 0.5,
+    "star_horizontal_spacing_wavelengths": 0.5,
+    "star_vertical_spacing_wavelengths": 0.5,
+    "bs_ula_axis": [1.0, 0.0, 0.0],
+    "star_horizontal_axis": [1.0, 0.0, 0.0],
+    "star_vertical_axis": [0.0, 0.0, 1.0],
+    "star_normal": [0.0, 1.0, 0.0]
+  },
+  "geometry": {
+    "bs_position_m": [0.0, -40.0, 10.0],
+    "star_center_position_m": [0.0, 0.0, 10.0],
+    "user_height_m": 1.5,
+    "reflection_region_xy_m": {
+      "x_min": -5.0,
+      "x_max": 5.0,
+      "y_min": -18.0,
+      "y_max": -12.0
+    },
+    "transmission_region_xy_m": {
+      "x_min": -5.0,
+      "x_max": 5.0,
+      "y_min": 12.0,
+      "y_max": 18.0
+    }
+  },
+  "channel": {
+    "carrier_frequency_ghz": 28.0,
+    "time_slot_s": 0.002,
+    "bs_star_rician_factor_db": 3.0,
+    "user_rician_factor_db": [3.0, 5.0, 7.0, 9.0],
+    "center_path_phase_mode": "omit",
+    "path_loss_model": "3gpp_umi_street_canyon_los"
+  },
+  "mobility": {
+    "user_sides": ["R", "R", "T", "T"],
+    "user_speeds_m_per_s": [0.3, 0.6, 0.9, 1.2],
+    "arrival_tolerance_m": 1.0e-8
+  },
+  "noise": {
+    "noise_psd_dbm_per_hz": -174.0,
+    "bandwidth_hz": 251188600.0,
+    "receiver_noise_figure_db": 4.3,
+    "star_noise_figure_db": 5.8
+  },
+  "power": {
+    "bs_max_output_dbm": 30.0,
+    "bs_per_antenna_max_output_dbm": null,
+    "star_total_max_output_dbm": 0.0,
+    "star_per_element_max_output_dbm": -15.051499783199061,
+    "star_max_power_gain_db": 40.0
+  },
+  "finite_blocklength": {
+    "packet_duration_s": 1.0191545316945116e-6,
+    "decoding_error_probability": 1.0e-5,
+    "minimum_packet_payload_bits_per_user": [16.0, 16.0, 16.0, 16.0],
+    "optimization_design_payload_bits_per_user": [27.0, 27.0, 27.0, 27.0]
+  },
+  "learning": {
+    "history_length": 3
+  }
+}

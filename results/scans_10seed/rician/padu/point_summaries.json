@@ -1,0 +1,1842 @@
+[
+  {
+    "point_key": "seed_101/rician_0",
+    "root_seed": 101,
+    "rician_factor_db": 0.0,
+    "summary": {
+      "domains": {
+        "in_domain": {
+          "completed_slots": 192,
+          "joint_qos_outage_count": 27,
+          "joint_qos_outage_rate": 0.140625,
+          "mean_actual_weighted_throughput_bps": 147734527.72916666,
+          "mean_prediction_nmse": 0.6344097691277663,
+          "mean_control_time_s": 0.007438536979160896,
+          "maximum_constraint_violation": 2.384185791015625e-07,
+          "mean_design_payload_bits": 16.0,
+          "minimum_design_payload_bits": 16.0,
+          "maximum_design_payload_bits": 16.0
+        }
+      },
+      "output_directory": "results\\scans_10seed\\rician\\padu\\seed_101\\rician_0",
+      "csi_source": "probabilistic_gru_next_slot_distribution"
+    }
+  },
+  {
+    "point_key": "seed_101/rician_1",
+    "root_seed": 101,
+    "rician_factor_db": 1.0,
+    "summary": {
+      "domains": {
+        "in_domain": {
+          "completed_slots": 192,
+          "joint_qos_outage_count": 10,
+          "joint_qos_outage_rate": 0.052083333333333336,
+          "mean_actual_weighted_throughput_bps": 164947780.04166666,
+          "mean_prediction_nmse": 0.5583955207839608,
+          "mean_control_time_s": 0.0016121385416643836,
+          "maximum_constraint_violation": 2.384185791015625e-07,
+          "mean_design_payload_bits": 16.0,
+          "minimum_design_payload_bits": 16.0,
+          "maximum_design_payload_bits": 16.0
+        }
+      },
+      "output_directory": "results\\scans_10seed\\rician\\padu\\seed_101\\rician_1",
+      "csi_source": "probabilistic_gru_next_slot_distribution"
+    }
+  },
+  {
+    "point_key": "seed_101/rician_2",
+    "root_seed": 101,
+    "rician_factor_db": 2.0,
+    "summary": {
+      "domains": {
+        "in_domain": {
+          "completed_slots": 192,
+          "joint_qos_outage_count": 3,
+          "joint_qos_outage_rate": 0.015625,
+          "mean_actual_weighted_throughput_bps": 181085552.29166666,
+          "mean_prediction_nmse": 0.48527601625149447,
+          "mean_control_time_s": 0.001635845833334315,
+          "maximum_constraint_violation": 2.384185791015625e-07,
+          "mean_design_payload_bits": 16.0,
+          "minimum_design_payload_bits": 16.0,
+          "maximum_design_payload_bits": 16.0
+        }
+      },
+      "output_directory": "results\\scans_10seed\\rician\\padu\\seed_101\\rician_2",
+      "csi_source": "probabilistic_gru_next_slot_distribution"
+    }
+  },
+  {
+    "point_key": "seed_101/rician_3",
+    "root_seed": 101,
+    "rician_factor_db": 3.0,
+    "summary": {
+      "domains": {
+        "in_domain": {
+          "completed_slots": 192,
+          "joint_qos_outage_count": 0,
+          "joint_qos_outage_rate": 0.0,
+          "mean_actual_weighted_throughput_bps": 195583126.54166666,
+          "mean_prediction_nmse": 0.416690112867703,
+          "mean_control_time_s": 0.0015092265625090324,
+          "maximum_constraint_violation": 2.384185791015625e-07,
+          "mean_design_payload_bits": 16.0,
+          "minimum_design_payload_bits": 16.0,
+          "maximum_design_payload_bits": 16.0
+        }
+      },
+      "output_directory": "results\\scans_10seed\\rician\\padu\\seed_101\\rician_3",
+      "csi_source": "probabilistic_gru_next_slot_distribution"
+    }
+  },
+  {
+    "point_key": "seed_101/rician_4",
+    "root_seed": 101,
+    "rician_factor_db": 4.0,
+    "summary": {
+      "domains": {
+        "in_domain": {
+          "completed_slots": 192,
+          "joint_qos_outage_count": 0,
+          "joint_qos_outage_rate": 0.0,
+          "mean_actual_weighted_throughput_bps": 208339303.16666666,
+          "mean_prediction_nmse": 0.35385368500525755,
+          "mean_control_time_s": 0.0016444348958278472,
+          "maximum_constraint_violation": 2.384185791015625e-07,
+          "mean_design_payload_bits": 16.0,
+          "minimum_design_payload_bits": 16.0,
+          "maximum_design_payload_bits": 16.0
+        }
+      },
+      "output_directory": "results\\scans_10seed\\rician\\padu\\seed_101\\rician_4",
+      "csi_source": "probabilistic_gru_next_slot_distribution"
+    }
+  },
+  {
+    "point_key": "seed_101/rician_5",
+    "root_seed": 101,
+    "rician_factor_db": 5.0,
+    "summary": {
+      "domains": {
+        "in_domain": {
+          "completed_slots": 192,
+          "joint_qos_outage_count": 0,
+          "joint_qos_outage_rate": 0.0,
+          "mean_actual_weighted_throughput_bps": 219431292.41666666,
+          "mean_prediction_nmse": 0.2975091204668085,
+          "mean_control_time_s": 0.0015584588541723103,
+          "maximum_constraint_violation": 2.384185791015625e-07,
+          "mean_design_payload_bits": 16.0,
+          "minimum_design_payload_bits": 16.0,
+          "maximum_design_payload_bits": 16.0
+        }
+      },
+      "output_directory": "results\\scans_10seed\\rician\\padu\\seed_101\\rician_5",
+      "csi_source": "probabilistic_gru_next_slot_distribution"
+    }
+  },
+  {
+    "point_key": "seed_101/rician_6",
+    "root_seed": 101,
+    "rician_factor_db": 6.0,
+    "summary": {
+      "domains": {
+        "in_domain": {
+          "completed_slots": 192,
+          "joint_qos_outage_count": 0,
+          "joint_qos_outage_rate": 0.0,
+          "mean_actual_weighted_throughput_bps": 228776937.91666666,
+          "mean_prediction_nmse": 0.24794472171925008,
+          "mean_control_time_s": 0.001692220312511002,
+          "maximum_constraint_violation": 2.384185791015625e-07,
+          "mean_design_payload_bits": 16.0,
+          "minimum_design_payload_bits": 16.0,
+          "maximum_design_payload_bits": 16.0
+        }
+      },
+      "output_directory": "results\\scans_10seed\\rician\\padu\\seed_101\\rician_6",
+      "csi_source": "probabilistic_gru_next_slot_distribution"
+    }
+  },
+  {
+    "point_key": "seed_101/rician_7",
+    "root_seed": 101,
+    "rician_factor_db": 7.0,
+    "summary": {
+      "domains": {
+        "in_domain": {
+          "completed_slots": 192,
+          "joint_qos_outage_count": 0,
+          "joint_qos_outage_rate": 0.0,
+          "mean_actual_weighted_throughput_bps": 236669057.41666666,
+          "mean_prediction_nmse": 0.20506965648382902,
+          "mean_control_time_s": 0.0017412843750056102,
+          "maximum_constraint_violation": 2.384185791015625e-07,
+          "mean_design_payload_bits": 16.0,
+          "minimum_design_payload_bits": 16.0,
+          "maximum_design_payload_bits": 16.0
+        }
+      },
+      "output_directory": "results\\scans_10seed\\rician\\padu\\seed_101\\rician_7",
+      "csi_source": "probabilistic_gru_next_slot_distribution"
+    }
+  },
+  {
+    "point_key": "seed_201/rician_0",
+    "root_seed": 201,
+    "rician_factor_db": 0.0,
+    "summary": {
+      "domains": {
+        "in_domain": {
+          "completed_slots": 192,
+          "joint_qos_outage_count": 9,
+          "joint_qos_outage_rate": 0.046875,
+          "mean_actual_weighted_throughput_bps": 164297314.95833334,
+          "mean_prediction_nmse": 0.4383119981115063,
+          "mean_control_time_s": 0.0017448578124875287,
+          "maximum_constraint_violation": 2.384185791015625e-07,
+          "mean_design_payload_bits": 16.0,
+          "minimum_design_payload_bits": 16.0,
+          "maximum_design_payload_bits": 16.0
+        }
+      },
+      "output_directory": "results\\scans_10seed\\rician\\padu\\seed_201\\rician_0",
+      "csi_source": "probabilistic_gru_next_slot_distribution"
+    }
+  },
+  {
+    "point_key": "seed_201/rician_1",
+    "root_seed": 201,
+    "rician_factor_db": 1.0,
+    "summary": {
+      "domains": {
+        "in_domain": {
+          "completed_slots": 192,
+          "joint_qos_outage_count": 3,
+          "joint_qos_outage_rate": 0.015625,
+          "mean_actual_weighted_throughput_bps": 180188167.33333334,
+          "mean_prediction_nmse": 0.38655253290198743,
+          "mean_control_time_s": 0.001571348437503654,
+          "maximum_constraint_violation": 2.384185791015625e-07,
+          "mean_design_payload_bits": 16.0,
+          "minimum_design_payload_bits": 16.0,
+          "maximum_design_payload_bits": 16.0
+        }
+      },
+      "output_directory": "results\\scans_10seed\\rician\\padu\\seed_201\\rician_1",
+      "csi_source": "probabilistic_gru_next_slot_distribution"
+    }
+  },
+  {
+    "point_key": "seed_201/rician_2",
+    "root_seed": 201,
+    "rician_factor_db": 2.0,
+    "summary": {
+      "domains": {
+        "in_domain": {
+          "completed_slots": 192,
+          "joint_qos_outage_count": 3,
+          "joint_qos_outage_rate": 0.015625,
+          "mean_actual_weighted_throughput_bps": 194295113.0,
+          "mean_prediction_nmse": 0.3366108265084525,
+          "mean_control_time_s": 0.0017191374999943794,
+          "maximum_constraint_violation": 2.384185791015625e-07,
+          "mean_design_payload_bits": 16.0,
+          "minimum_design_payload_bits": 16.0,
+          "maximum_design_payload_bits": 16.0
+        }
+      },
+      "output_directory": "results\\scans_10seed\\rician\\padu\\seed_201\\rician_2",
+      "csi_source": "probabilistic_gru_next_slot_distribution"
+    }
+  },
+  {
+    "point_key": "seed_201/rician_3",
+    "root_seed": 201,
+    "rician_factor_db": 3.0,
+    "summary": {
+      "domains": {
+        "in_domain": {
+          "completed_slots": 192,
+          "joint_qos_outage_count": 0,
+          "joint_qos_outage_rate": 0.0,
+          "mean_actual_weighted_throughput_bps": 207125087.25,
+          "mean_prediction_nmse": 0.2896135598421097,
+          "mean_control_time_s": 0.0017927098958333925,
+          "maximum_constraint_violation": 2.384185791015625e-07,
+          "mean_design_payload_bits": 16.0,
+          "minimum_design_payload_bits": 16.0,
+          "maximum_design_payload_bits": 16.0
+        }
+      },
+      "output_directory": "results\\scans_10seed\\rician\\padu\\seed_201\\rician_3",
+      "csi_source": "probabilistic_gru_next_slot_distribution"
+    }
+  },
+  {
+    "point_key": "seed_201/rician_4",
+    "root_seed": 201,
+    "rician_factor_db": 4.0,
+    "summary": {
+      "domains": {
+        "in_domain": {
+          "completed_slots": 192,
+          "joint_qos_outage_count": 0,
+          "joint_qos_outage_rate": 0.0,
+          "mean_actual_weighted_throughput_bps": 218106152.25,
+          "mean_prediction_nmse": 0.2464209939741219,
+          "mean_control_time_s": 0.001682306250008499,
+          "maximum_constraint_violation": 2.384185791015625e-07,
+          "mean_design_payload_bits": 16.0,
+          "minimum_design_payload_bits": 16.0,
+          "maximum_design_payload_bits": 16.0
+        }
+      },
+      "output_directory": "results\\scans_10seed\\rician\\padu\\seed_201\\rician_4",
+      "csi_source": "probabilistic_gru_next_slot_distribution"
+    }
+  },
+  {
+    "point_key": "seed_201/rician_5",
+    "root_seed": 201,
+    "rician_factor_db": 5.0,
+    "summary": {
+      "domains": {
+        "in_domain": {
+          "completed_slots": 192,
+          "joint_qos_outage_count": 0,
+          "joint_qos_outage_rate": 0.0,
+          "mean_actual_weighted_throughput_bps": 227807863.5,
+          "mean_prediction_nmse": 0.2075763187604025,
+          "mean_control_time_s": 0.0016218963541708338,
+          "maximum_constraint_violation": 2.384185791015625e-07,
+          "mean_design_payload_bits": 16.0,
+          "minimum_design_payload_bits": 16.0,
+          "maximum_design_payload_bits": 16.0
+        }
+      },
+      "output_directory": "results\\scans_10seed\\rician\\padu\\seed_201\\rician_5",
+      "csi_source": "probabilistic_gru_next_slot_distribution"
+    }
+  },
+  {
+    "point_key": "seed_201/rician_6",
+    "root_seed": 201,
+    "rician_factor_db": 6.0,
+    "summary": {
+      "domains": {
+        "in_domain": {
+          "completed_slots": 192,
+          "joint_qos_outage_count": 0,
+          "joint_qos_outage_rate": 0.0,
+          "mean_actual_weighted_throughput_bps": 236068293.91666666,
+          "mean_prediction_nmse": 0.1733145006777098,
+          "mean_control_time_s": 0.0016021078125068773,
+          "maximum_constraint_violation": 2.384185791015625e-07,
+          "mean_design_payload_bits": 16.0,
+          "minimum_design_payload_bits": 16.0,
+          "maximum_design_payload_bits": 16.0
+        }
+      },
+      "output_directory": "results\\scans_10seed\\rician\\padu\\seed_201\\rician_6",
+      "csi_source": "probabilistic_gru_next_slot_distribution"
+    }
+  },
+  {
+    "point_key": "seed_201/rician_7",
+    "root_seed": 201,
+    "rician_factor_db": 7.0,
+    "summary": {
+      "domains": {
+        "in_domain": {
+          "completed_slots": 192,
+          "joint_qos_outage_count": 0,
+          "joint_qos_outage_rate": 0.0,
+          "mean_actual_weighted_throughput_bps": 242849113.91666666,
+          "mean_prediction_nmse": 0.14360651874449104,
+          "mean_control_time_s": 0.0014276557291642196,
+          "maximum_constraint_violation": 2.384185791015625e-07,
+          "mean_design_payload_bits": 16.0,
+          "minimum_design_payload_bits": 16.0,
+          "maximum_design_payload_bits": 16.0
+        }
+      },
+      "output_directory": "results\\scans_10seed\\rician\\padu\\seed_201\\rician_7",
+      "csi_source": "probabilistic_gru_next_slot_distribution"
+    }
+  },
+  {
+    "point_key": "seed_301/rician_0",
+    "root_seed": 301,
+    "rician_factor_db": 0.0,
+    "summary": {
+      "domains": {
+        "in_domain": {
+          "completed_slots": 192,
+          "joint_qos_outage_count": 16,
+          "joint_qos_outage_rate": 0.08333333333333333,
+          "mean_actual_weighted_throughput_bps": 158858599.75,
+          "mean_prediction_nmse": 0.5262127439491451,
+          "mean_control_time_s": 0.0015262182291640631,
+          "maximum_constraint_violation": 2.384185791015625e-07,
+          "mean_design_payload_bits": 16.0,
+          "minimum_design_payload_bits": 16.0,
+          "maximum_design_payload_bits": 16.0
+        }
+      },
+      "output_directory": "results\\scans_10seed\\rician\\padu\\seed_301\\rician_0",
+      "csi_source": "probabilistic_gru_next_slot_distribution"
+    }
+  },
+  {
+    "point_key": "seed_301/rician_1",
+    "root_seed": 301,
+    "rician_factor_db": 1.0,
+    "summary": {
+      "domains": {
+        "in_domain": {
+          "completed_slots": 192,
+          "joint_qos_outage_count": 2,
+          "joint_qos_outage_rate": 0.010416666666666666,
+          "mean_actual_weighted_throughput_bps": 176109042.04166666,
+          "mean_prediction_nmse": 0.4638079381547868,
+          "mean_control_time_s": 0.0016810604166626792,
+          "maximum_constraint_violation": 2.384185791015625e-07,
+          "mean_design_payload_bits": 16.0,
+          "minimum_design_payload_bits": 16.0,
+          "maximum_design_payload_bits": 16.0
+        }
+      },
+      "output_directory": "results\\scans_10seed\\rician\\padu\\seed_301\\rician_1",
+      "csi_source": "probabilistic_gru_next_slot_distribution"
+    }
+  },
+  {
+    "point_key": "seed_301/rician_2",
+    "root_seed": 301,
+    "rician_factor_db": 2.0,
+    "summary": {
+      "domains": {
+        "in_domain": {
+          "completed_slots": 192,
+          "joint_qos_outage_count": 2,
+          "joint_qos_outage_rate": 0.010416666666666666,
+          "mean_actual_weighted_throughput_bps": 191923538.0,
+          "mean_prediction_nmse": 0.4036340091067056,
+          "mean_control_time_s": 0.0014589635416655256,
+          "maximum_constraint_violation": 2.384185791015625e-07,
+          "mean_design_payload_bits": 16.0,
+          "minimum_design_payload_bits": 16.0,
+          "maximum_design_payload_bits": 16.0
+        }
+      },
+      "output_directory": "results\\scans_10seed\\rician\\padu\\seed_301\\rician_2",
+      "csi_source": "probabilistic_gru_next_slot_distribution"
+    }
+  },
+  {
+    "point_key": "seed_301/rician_3",
+    "root_seed": 301,
+    "rician_factor_db": 3.0,
+    "summary": {
+      "domains": {
+        "in_domain": {
+          "completed_slots": 192,
+          "joint_qos_outage_count": 2,
+          "joint_qos_outage_rate": 0.010416666666666666,
+          "mean_actual_weighted_throughput_bps": 205831404.0,
+          "mean_prediction_nmse": 0.3470539953559637,
+          "mean_control_time_s": 0.0015404390624951247,
+          "maximum_constraint_violation": 2.384185791015625e-07,
+          "mean_design_payload_bits": 16.0,
+          "minimum_design_payload_bits": 16.0,
+          "maximum_design_payload_bits": 16.0
+        }
+      },
+      "output_directory": "results\\scans_10seed\\rician\\padu\\seed_301\\rician_3",
+      "csi_source": "probabilistic_gru_next_slot_distribution"
+    }
+  },
+  {
+    "point_key": "seed_301/rician_4",
+    "root_seed": 301,
+    "rician_factor_db": 4.0,
+    "summary": {
+      "domains": {
+        "in_domain": {
+          "completed_slots": 192,
+          "joint_qos_outage_count": 0,
+          "joint_qos_outage_rate": 0.0,
+          "mean_actual_weighted_throughput_bps": 218230641.66666666,
+          "mean_prediction_nmse": 0.2950975074588011,
+          "mean_control_time_s": 0.0014943526041596062,
+          "maximum_constraint_violation": 2.384185791015625e-07,
+          "mean_design_payload_bits": 16.0,
+          "minimum_design_payload_bits": 16.0,
+          "maximum_design_payload_bits": 16.0
+        }
+      },
+      "output_directory": "results\\scans_10seed\\rician\\padu\\seed_301\\rician_4",
+      "csi_source": "probabilistic_gru_next_slot_distribution"
+    }
+  },
+  {
+    "point_key": "seed_301/rician_5",
+    "root_seed": 301,
+    "rician_factor_db": 5.0,
+    "summary": {
+      "domains": {
+        "in_domain": {
+          "completed_slots": 192,
+          "joint_qos_outage_count": 0,
+          "joint_qos_outage_rate": 0.0,
+          "mean_actual_weighted_throughput_bps": 228669402.33333334,
+          "mean_prediction_nmse": 0.24841060698963702,
+          "mean_control_time_s": 0.0015860911458294897,
+          "maximum_constraint_violation": 2.384185791015625e-07,
+          "mean_design_payload_bits": 16.0,
+          "minimum_design_payload_bits": 16.0,
+          "maximum_design_payload_bits": 16.0
+        }
+      },
+      "output_directory": "results\\scans_10seed\\rician\\padu\\seed_301\\rician_5",
+      "csi_source": "probabilistic_gru_next_slot_distribution"
+    }
+  },
+  {
+    "point_key": "seed_301/rician_6",
+    "root_seed": 301,
+    "rician_factor_db": 6.0,
+    "summary": {
+      "domains": {
+        "in_domain": {
+          "completed_slots": 192,
+          "joint_qos_outage_count": 0,
+          "joint_qos_outage_rate": 0.0,
+          "mean_actual_weighted_throughput_bps": 237644388.25,
+          "mean_prediction_nmse": 0.20726365708590797,
+          "mean_control_time_s": 0.0015626260416752302,
+          "maximum_constraint_violation": 2.384185791015625e-07,
+          "mean_design_payload_bits": 16.0,
+          "minimum_design_payload_bits": 16.0,
+          "maximum_design_payload_bits": 16.0
+        }
+      },
+      "output_directory": "results\\scans_10seed\\rician\\padu\\seed_301\\rician_6",
+      "csi_source": "probabilistic_gru_next_slot_distribution"
+    }
+  },
+  {
+    "point_key": "seed_301/rician_7",
+    "root_seed": 301,
+    "rician_factor_db": 7.0,
+    "summary": {
+      "domains": {
+        "in_domain": {
+          "completed_slots": 192,
+          "joint_qos_outage_count": 0,
+          "joint_qos_outage_rate": 0.0,
+          "mean_actual_weighted_throughput_bps": 245306132.0,
+          "mean_prediction_nmse": 0.17161169877120605,
+          "mean_control_time_s": 0.0015771744791663878,
+          "maximum_constraint_violation": 2.384185791015625e-07,
+          "mean_design_payload_bits": 16.0,
+          "minimum_design_payload_bits": 16.0,
+          "maximum_design_payload_bits": 16.0
+        }
+      },
+      "output_directory": "results\\scans_10seed\\rician\\padu\\seed_301\\rician_7",
+      "csi_source": "probabilistic_gru_next_slot_distribution"
+    }
+  },
+  {
+    "point_key": "seed_401/rician_0",
+    "root_seed": 401,
+    "rician_factor_db": 0.0,
+    "summary": {
+      "domains": {
+        "in_domain": {
+          "completed_slots": 192,
+          "joint_qos_outage_count": 7,
+          "joint_qos_outage_rate": 0.036458333333333336,
+          "mean_actual_weighted_throughput_bps": 159669670.45833334,
+          "mean_prediction_nmse": 0.6562360227108002,
+          "mean_control_time_s": 0.0017216520833377065,
+          "maximum_constraint_violation": 2.384185791015625e-07,
+          "mean_design_payload_bits": 16.0,
+          "minimum_design_payload_bits": 16.0,
+          "maximum_design_payload_bits": 16.0
+        }
+      },
+      "output_directory": "results\\scans_10seed\\rician\\padu\\seed_401\\rician_0",
+      "csi_source": "probabilistic_gru_next_slot_distribution"
+    }
+  },
+  {
+    "point_key": "seed_401/rician_1",
+    "root_seed": 401,
+    "rician_factor_db": 1.0,
+    "summary": {
+      "domains": {
+        "in_domain": {
+          "completed_slots": 192,
+          "joint_qos_outage_count": 2,
+          "joint_qos_outage_rate": 0.010416666666666666,
+          "mean_actual_weighted_throughput_bps": 176973988.79166666,
+          "mean_prediction_nmse": 0.5779803992093852,
+          "mean_control_time_s": 0.0015980317708207774,
+          "maximum_constraint_violation": 2.384185791015625e-07,
+          "mean_design_payload_bits": 16.0,
+          "minimum_design_payload_bits": 16.0,
+          "maximum_design_payload_bits": 16.0
+        }
+      },
+      "output_directory": "results\\scans_10seed\\rician\\padu\\seed_401\\rician_1",
+      "csi_source": "probabilistic_gru_next_slot_distribution"
+    }
+  },
+  {
+    "point_key": "seed_401/rician_2",
+    "root_seed": 401,
+    "rician_factor_db": 2.0,
+    "summary": {
+      "domains": {
+        "in_domain": {
+          "completed_slots": 192,
+          "joint_qos_outage_count": 0,
+          "joint_qos_outage_rate": 0.0,
+          "mean_actual_weighted_throughput_bps": 192626881.58333334,
+          "mean_prediction_nmse": 0.5025547325300673,
+          "mean_control_time_s": 0.0017058338541649694,
+          "maximum_constraint_violation": 2.384185791015625e-07,
+          "mean_design_payload_bits": 16.0,
+          "minimum_design_payload_bits": 16.0,
+          "maximum_design_payload_bits": 16.0
+        }
+      },
+      "output_directory": "results\\scans_10seed\\rician\\padu\\seed_401\\rician_2",
+      "csi_source": "probabilistic_gru_next_slot_distribution"
+    }
+  },
+  {
+    "point_key": "seed_401/rician_3",
+    "root_seed": 401,
+    "rician_factor_db": 3.0,
+    "summary": {
+      "domains": {
+        "in_domain": {
+          "completed_slots": 192,
+          "joint_qos_outage_count": 0,
+          "joint_qos_outage_rate": 0.0,
+          "mean_actual_weighted_throughput_bps": 206632029.58333334,
+          "mean_prediction_nmse": 0.4316829944339891,
+          "mean_control_time_s": 0.0015391625000139204,
+          "maximum_constraint_violation": 2.384185791015625e-07,
+          "mean_design_payload_bits": 16.0,
+          "minimum_design_payload_bits": 16.0,
+          "maximum_design_payload_bits": 16.0
+        }
+      },
+      "output_directory": "results\\scans_10seed\\rician\\padu\\seed_401\\rician_3",
+      "csi_source": "probabilistic_gru_next_slot_distribution"
+    }
+  },
+  {
+    "point_key": "seed_401/rician_4",
+    "root_seed": 401,
+    "rician_factor_db": 4.0,
+    "summary": {
+      "domains": {
+        "in_domain": {
+          "completed_slots": 192,
+          "joint_qos_outage_count": 0,
+          "joint_qos_outage_rate": 0.0,
+          "mean_actual_weighted_throughput_bps": 218628500.08333334,
+          "mean_prediction_nmse": 0.3666618410497904,
+          "mean_control_time_s": 0.0014092166666538712,
+          "maximum_constraint_violation": 2.384185791015625e-07,
+          "mean_design_payload_bits": 16.0,
+          "minimum_design_payload_bits": 16.0,
+          "maximum_design_payload_bits": 16.0
+        }
+      },
+      "output_directory": "results\\scans_10seed\\rician\\padu\\seed_401\\rician_4",
+      "csi_source": "probabilistic_gru_next_slot_distribution"
+    }
+  },
+  {
+    "point_key": "seed_401/rician_5",
+    "root_seed": 401,
+    "rician_factor_db": 5.0,
+    "summary": {
+      "domains": {
+        "in_domain": {
+          "completed_slots": 192,
+          "joint_qos_outage_count": 0,
+          "joint_qos_outage_rate": 0.0,
+          "mean_actual_weighted_throughput_bps": 228783422.75,
+          "mean_prediction_nmse": 0.30829952377825975,
+          "mean_control_time_s": 0.0016924135416616082,
+          "maximum_constraint_violation": 2.384185791015625e-07,
+          "mean_design_payload_bits": 16.0,
+          "minimum_design_payload_bits": 16.0,
+          "maximum_design_payload_bits": 16.0
+        }
+      },
+      "output_directory": "results\\scans_10seed\\rician\\padu\\seed_401\\rician_5",
+      "csi_source": "probabilistic_gru_next_slot_distribution"
+    }
+  },
+  {
+    "point_key": "seed_401/rician_6",
+    "root_seed": 401,
+    "rician_factor_db": 6.0,
+    "summary": {
+      "domains": {
+        "in_domain": {
+          "completed_slots": 192,
+          "joint_qos_outage_count": 0,
+          "joint_qos_outage_rate": 0.0,
+          "mean_actual_weighted_throughput_bps": 237302140.08333334,
+          "mean_prediction_nmse": 0.2569258368263642,
+          "mean_control_time_s": 0.001526812499993942,
+          "maximum_constraint_violation": 2.384185791015625e-07,
+          "mean_design_payload_bits": 16.0,
+          "minimum_design_payload_bits": 16.0,
+          "maximum_design_payload_bits": 16.0
+        }
+      },
+      "output_directory": "results\\scans_10seed\\rician\\padu\\seed_401\\rician_6",
+      "csi_source": "probabilistic_gru_next_slot_distribution"
+    }
+  },
+  {
+    "point_key": "seed_401/rician_7",
+    "root_seed": 401,
+    "rician_factor_db": 7.0,
+    "summary": {
+      "domains": {
+        "in_domain": {
+          "completed_slots": 192,
+          "joint_qos_outage_count": 0,
+          "joint_qos_outage_rate": 0.0,
+          "mean_actual_weighted_throughput_bps": 244345070.5,
+          "mean_prediction_nmse": 0.21246942761354148,
+          "mean_control_time_s": 0.001496553125017878,
+          "maximum_constraint_violation": 2.384185791015625e-07,
+          "mean_design_payload_bits": 16.0,
+          "minimum_design_payload_bits": 16.0,
+          "maximum_design_payload_bits": 16.0
+        }
+      },
+      "output_directory": "results\\scans_10seed\\rician\\padu\\seed_401\\rician_7",
+      "csi_source": "probabilistic_gru_next_slot_distribution"
+    }
+  },
+  {
+    "point_key": "seed_501/rician_0",
+    "root_seed": 501,
+    "rician_factor_db": 0.0,
+    "summary": {
+      "domains": {
+        "in_domain": {
+          "completed_slots": 192,
+          "joint_qos_outage_count": 13,
+          "joint_qos_outage_rate": 0.06770833333333333,
+          "mean_actual_weighted_throughput_bps": 167146293.54166666,
+          "mean_prediction_nmse": 0.7106522664738198,
+          "mean_control_time_s": 0.0016416489583358878,
+          "maximum_constraint_violation": 2.384185791015625e-07,
+          "mean_design_payload_bits": 16.0,
+          "minimum_design_payload_bits": 16.0,
+          "maximum_design_payload_bits": 16.0
+        }
+      },
+      "output_directory": "results\\scans_10seed\\rician\\padu\\seed_501\\rician_0",
+      "csi_source": "probabilistic_gru_next_slot_distribution"
+    }
+  },
+  {
+    "point_key": "seed_501/rician_1",
+    "root_seed": 501,
+    "rician_factor_db": 1.0,
+    "summary": {
+      "domains": {
+        "in_domain": {
+          "completed_slots": 192,
+          "joint_qos_outage_count": 5,
+          "joint_qos_outage_rate": 0.026041666666666668,
+          "mean_actual_weighted_throughput_bps": 185030810.375,
+          "mean_prediction_nmse": 0.6253268715615073,
+          "mean_control_time_s": 0.0016925489583267488,
+          "maximum_constraint_violation": 2.384185791015625e-07,
+          "mean_design_payload_bits": 16.0,
+          "minimum_design_payload_bits": 16.0,
+          "maximum_design_payload_bits": 16.0
+        }
+      },
+      "output_directory": "results\\scans_10seed\\rician\\padu\\seed_501\\rician_1",
+      "csi_source": "probabilistic_gru_next_slot_distribution"
+    }
+  },
+  {
+    "point_key": "seed_501/rician_2",
+    "root_seed": 501,
+    "rician_factor_db": 2.0,
+    "summary": {
+      "domains": {
+        "in_domain": {
+          "completed_slots": 192,
+          "joint_qos_outage_count": 4,
+          "joint_qos_outage_rate": 0.020833333333333332,
+          "mean_actual_weighted_throughput_bps": 201268538.95833334,
+          "mean_prediction_nmse": 0.5432890024967492,
+          "mean_control_time_s": 0.001613739062501433,
+          "maximum_constraint_violation": 2.384185791015625e-07,
+          "mean_design_payload_bits": 16.0,
+          "minimum_design_payload_bits": 16.0,
+          "maximum_design_payload_bits": 16.0
+        }
+      },
+      "output_directory": "results\\scans_10seed\\rician\\padu\\seed_501\\rician_2",
+      "csi_source": "probabilistic_gru_next_slot_distribution"
+    }
+  },
+  {
+    "point_key": "seed_501/rician_3",
+    "root_seed": 501,
+    "rician_factor_db": 3.0,
+    "summary": {
+      "domains": {
+        "in_domain": {
+          "completed_slots": 192,
+          "joint_qos_outage_count": 2,
+          "joint_qos_outage_rate": 0.010416666666666666,
+          "mean_actual_weighted_throughput_bps": 215702190.33333334,
+          "mean_prediction_nmse": 0.4663802304615577,
+          "mean_control_time_s": 0.0014558651041814603,
+          "maximum_constraint_violation": 1.1920928955078125e-07,
+          "mean_design_payload_bits": 16.0,
+          "minimum_design_payload_bits": 16.0,
+          "maximum_design_payload_bits": 16.0
+        }
+      },
+      "output_directory": "results\\scans_10seed\\rician\\padu\\seed_501\\rician_3",
+      "csi_source": "probabilistic_gru_next_slot_distribution"
+    }
+  },
+  {
+    "point_key": "seed_501/rician_4",
+    "root_seed": 501,
+    "rician_factor_db": 4.0,
+    "summary": {
+      "domains": {
+        "in_domain": {
+          "completed_slots": 192,
+          "joint_qos_outage_count": 1,
+          "joint_qos_outage_rate": 0.005208333333333333,
+          "mean_actual_weighted_throughput_bps": 228225575.25,
+          "mean_prediction_nmse": 0.395961526936541,
+          "mean_control_time_s": 0.0015665088541538807,
+          "maximum_constraint_violation": 2.384185791015625e-07,
+          "mean_design_payload_bits": 16.0,
+          "minimum_design_payload_bits": 16.0,
+          "maximum_design_payload_bits": 16.0
+        }
+      },
+      "output_directory": "results\\scans_10seed\\rician\\padu\\seed_501\\rician_4",
+      "csi_source": "probabilistic_gru_next_slot_distribution"
+    }
+  },
+  {
+    "point_key": "seed_501/rician_5",
+    "root_seed": 501,
+    "rician_factor_db": 5.0,
+    "summary": {
+      "domains": {
+        "in_domain": {
+          "completed_slots": 192,
+          "joint_qos_outage_count": 0,
+          "joint_qos_outage_rate": 0.0,
+          "mean_actual_weighted_throughput_bps": 238990435.75,
+          "mean_prediction_nmse": 0.3328581362341841,
+          "mean_control_time_s": 0.0015618854166727185,
+          "maximum_constraint_violation": 2.384185791015625e-07,
+          "mean_design_payload_bits": 16.0,
+          "minimum_design_payload_bits": 16.0,
+          "maximum_design_payload_bits": 16.0
+        }
+      },
+      "output_directory": "results\\scans_10seed\\rician\\padu\\seed_501\\rician_5",
+      "csi_source": "probabilistic_gru_next_slot_distribution"
+    }
+  },
+  {
+    "point_key": "seed_501/rician_6",
+    "root_seed": 501,
+    "rician_factor_db": 6.0,
+    "summary": {
+      "domains": {
+        "in_domain": {
+          "completed_slots": 192,
+          "joint_qos_outage_count": 0,
+          "joint_qos_outage_rate": 0.0,
+          "mean_actual_weighted_throughput_bps": 248007688.83333334,
+          "mean_prediction_nmse": 0.27738047833554447,
+          "mean_control_time_s": 0.001673295833342081,
+          "maximum_constraint_violation": 2.384185791015625e-07,
+          "mean_design_payload_bits": 16.0,
+          "minimum_design_payload_bits": 16.0,
+          "maximum_design_payload_bits": 16.0
+        }
+      },
+      "output_directory": "results\\scans_10seed\\rician\\padu\\seed_501\\rician_6",
+      "csi_source": "probabilistic_gru_next_slot_distribution"
+    }
+  },
+  {
+    "point_key": "seed_501/rician_7",
+    "root_seed": 501,
+    "rician_factor_db": 7.0,
+    "summary": {
+      "domains": {
+        "in_domain": {
+          "completed_slots": 192,
+          "joint_qos_outage_count": 0,
+          "joint_qos_outage_rate": 0.0,
+          "mean_actual_weighted_throughput_bps": 255757320.0,
+          "mean_prediction_nmse": 0.22941168172595403,
+          "mean_control_time_s": 0.0015171197916761987,
+          "maximum_constraint_violation": 2.384185791015625e-07,
+          "mean_design_payload_bits": 16.0,
+          "minimum_design_payload_bits": 16.0,
+          "maximum_design_payload_bits": 16.0
+        }
+      },
+      "output_directory": "results\\scans_10seed\\rician\\padu\\seed_501\\rician_7",
+      "csi_source": "probabilistic_gru_next_slot_distribution"
+    }
+  },
+  {
+    "point_key": "seed_601/rician_0",
+    "root_seed": 601,
+    "rician_factor_db": 0.0,
+    "summary": {
+      "domains": {
+        "in_domain": {
+          "completed_slots": 192,
+          "joint_qos_outage_count": 22,
+          "joint_qos_outage_rate": 0.11458333333333333,
+          "mean_actual_weighted_throughput_bps": 157544962.625,
+          "mean_prediction_nmse": 0.46064069618781406,
+          "mean_control_time_s": 0.0013729692708466246,
+          "maximum_constraint_violation": 2.384185791015625e-07,
+          "mean_design_payload_bits": 16.0,
+          "minimum_design_payload_bits": 16.0,
+          "maximum_design_payload_bits": 16.0
+        }
+      },
+      "output_directory": "results\\scans_10seed\\rician\\padu\\seed_601\\rician_0",
+      "csi_source": "probabilistic_gru_next_slot_distribution"
+    }
+  },
+  {
+    "point_key": "seed_601/rician_1",
+    "root_seed": 601,
+    "rician_factor_db": 1.0,
+    "summary": {
+      "domains": {
+        "in_domain": {
+          "completed_slots": 192,
+          "joint_qos_outage_count": 8,
+          "joint_qos_outage_rate": 0.041666666666666664,
+          "mean_actual_weighted_throughput_bps": 174083931.08333334,
+          "mean_prediction_nmse": 0.4058353481814265,
+          "mean_control_time_s": 0.001629565104167341,
+          "maximum_constraint_violation": 2.384185791015625e-07,
+          "mean_design_payload_bits": 16.0,
+          "minimum_design_payload_bits": 16.0,
+          "maximum_design_payload_bits": 16.0
+        }
+      },
+      "output_directory": "results\\scans_10seed\\rician\\padu\\seed_601\\rician_1",
+      "csi_source": "probabilistic_gru_next_slot_distribution"
+    }
+  },
+  {
+    "point_key": "seed_601/rician_2",
+    "root_seed": 601,
+    "rician_factor_db": 2.0,
+    "summary": {
+      "domains": {
+        "in_domain": {
+          "completed_slots": 192,
+          "joint_qos_outage_count": 0,
+          "joint_qos_outage_rate": 0.0,
+          "mean_actual_weighted_throughput_bps": 189348056.08333334,
+          "mean_prediction_nmse": 0.35299572309789556,
+          "mean_control_time_s": 0.0017648505208285314,
+          "maximum_constraint_violation": 2.384185791015625e-07,
+          "mean_design_payload_bits": 16.0,
+          "minimum_design_payload_bits": 16.0,
+          "maximum_design_payload_bits": 16.0
+        }
+      },
+      "output_directory": "results\\scans_10seed\\rician\\padu\\seed_601\\rician_2",
+      "csi_source": "probabilistic_gru_next_slot_distribution"
+    }
+  },
+  {
+    "point_key": "seed_601/rician_3",
+    "root_seed": 601,
+    "rician_factor_db": 3.0,
+    "summary": {
+      "domains": {
+        "in_domain": {
+          "completed_slots": 192,
+          "joint_qos_outage_count": 0,
+          "joint_qos_outage_rate": 0.0,
+          "mean_actual_weighted_throughput_bps": 202909800.08333334,
+          "mean_prediction_nmse": 0.3033273082692176,
+          "mean_control_time_s": 0.001634770833334187,
+          "maximum_constraint_violation": 2.384185791015625e-07,
+          "mean_design_payload_bits": 16.0,
+          "minimum_design_payload_bits": 16.0,
+          "maximum_design_payload_bits": 16.0
+        }
+      },
+      "output_directory": "results\\scans_10seed\\rician\\padu\\seed_601\\rician_3",
+      "csi_source": "probabilistic_gru_next_slot_distribution"
+    }
+  },
+  {
+    "point_key": "seed_601/rician_4",
+    "root_seed": 601,
+    "rician_factor_db": 4.0,
+    "summary": {
+      "domains": {
+        "in_domain": {
+          "completed_slots": 192,
+          "joint_qos_outage_count": 0,
+          "joint_qos_outage_rate": 0.0,
+          "mean_actual_weighted_throughput_bps": 214940202.33333334,
+          "mean_prediction_nmse": 0.2577418059421082,
+          "mean_control_time_s": 0.0016499177083346694,
+          "maximum_constraint_violation": 2.384185791015625e-07,
+          "mean_design_payload_bits": 16.0,
+          "minimum_design_payload_bits": 16.0,
+          "maximum_design_payload_bits": 16.0
+        }
+      },
+      "output_directory": "results\\scans_10seed\\rician\\padu\\seed_601\\rician_4",
+      "csi_source": "probabilistic_gru_next_slot_distribution"
+    }
+  },
+  {
+    "point_key": "seed_601/rician_5",
+    "root_seed": 601,
+    "rician_factor_db": 5.0,
+    "summary": {
+      "domains": {
+        "in_domain": {
+          "completed_slots": 192,
+          "joint_qos_outage_count": 0,
+          "joint_qos_outage_rate": 0.0,
+          "mean_actual_weighted_throughput_bps": 225296331.0,
+          "mean_prediction_nmse": 0.21680945553816855,
+          "mean_control_time_s": 0.001637462500023427,
+          "maximum_constraint_violation": 2.384185791015625e-07,
+          "mean_design_payload_bits": 16.0,
+          "minimum_design_payload_bits": 16.0,
+          "maximum_design_payload_bits": 16.0
+        }
+      },
+      "output_directory": "results\\scans_10seed\\rician\\padu\\seed_601\\rician_5",
+      "csi_source": "probabilistic_gru_next_slot_distribution"
+    }
+  },
+  {
+    "point_key": "seed_601/rician_6",
+    "root_seed": 601,
+    "rician_factor_db": 6.0,
+    "summary": {
+      "domains": {
+        "in_domain": {
+          "completed_slots": 192,
+          "joint_qos_outage_count": 0,
+          "joint_qos_outage_rate": 0.0,
+          "mean_actual_weighted_throughput_bps": 234094212.83333334,
+          "mean_prediction_nmse": 0.18077084228085974,
+          "mean_control_time_s": 0.001517007812490571,
+          "maximum_constraint_violation": 2.384185791015625e-07,
+          "mean_design_payload_bits": 16.0,
+          "minimum_design_payload_bits": 16.0,
+          "maximum_design_payload_bits": 16.0
+        }
+      },
+      "output_directory": "results\\scans_10seed\\rician\\padu\\seed_601\\rician_6",
+      "csi_source": "probabilistic_gru_next_slot_distribution"
+    }
+  },
+  {
+    "point_key": "seed_601/rician_7",
+    "root_seed": 601,
+    "rician_factor_db": 7.0,
+    "summary": {
+      "domains": {
+        "in_domain": {
+          "completed_slots": 192,
+          "joint_qos_outage_count": 0,
+          "joint_qos_outage_rate": 0.0,
+          "mean_actual_weighted_throughput_bps": 241493308.25,
+          "mean_prediction_nmse": 0.14958110766019672,
+          "mean_control_time_s": 0.0015410833333457201,
+          "maximum_constraint_violation": 2.384185791015625e-07,
+          "mean_design_payload_bits": 16.0,
+          "minimum_design_payload_bits": 16.0,
+          "maximum_design_payload_bits": 16.0
+        }
+      },
+      "output_directory": "results\\scans_10seed\\rician\\padu\\seed_601\\rician_7",
+      "csi_source": "probabilistic_gru_next_slot_distribution"
+    }
+  },
+  {
+    "point_key": "seed_701/rician_0",
+    "root_seed": 701,
+    "rician_factor_db": 0.0,
+    "summary": {
+      "domains": {
+        "in_domain": {
+          "completed_slots": 192,
+          "joint_qos_outage_count": 39,
+          "joint_qos_outage_rate": 0.203125,
+          "mean_actual_weighted_throughput_bps": 145359948.20833334,
+          "mean_prediction_nmse": 0.6698521743528545,
+          "mean_control_time_s": 0.0014854635416649369,
+          "maximum_constraint_violation": 2.384185791015625e-07,
+          "mean_design_payload_bits": 16.0,
+          "minimum_design_payload_bits": 16.0,
+          "maximum_design_payload_bits": 16.0
+        }
+      },
+      "output_directory": "results\\scans_10seed\\rician\\padu\\seed_701\\rician_0",
+      "csi_source": "probabilistic_gru_next_slot_distribution"
+    }
+  },
+  {
+    "point_key": "seed_701/rician_1",
+    "root_seed": 701,
+    "rician_factor_db": 1.0,
+    "summary": {
+      "domains": {
+        "in_domain": {
+          "completed_slots": 192,
+          "joint_qos_outage_count": 16,
+          "joint_qos_outage_rate": 0.08333333333333333,
+          "mean_actual_weighted_throughput_bps": 162705940.04166666,
+          "mean_prediction_nmse": 0.5895081747633716,
+          "mean_control_time_s": 0.0016225104166665003,
+          "maximum_constraint_violation": 2.384185791015625e-07,
+          "mean_design_payload_bits": 16.0,
+          "minimum_design_payload_bits": 16.0,
+          "maximum_design_payload_bits": 16.0
+        }
+      },
+      "output_directory": "results\\scans_10seed\\rician\\padu\\seed_701\\rician_1",
+      "csi_source": "probabilistic_gru_next_slot_distribution"
+    }
+  },
+  {
+    "point_key": "seed_701/rician_2",
+    "root_seed": 701,
+    "rician_factor_db": 2.0,
+    "summary": {
+      "domains": {
+        "in_domain": {
+          "completed_slots": 192,
+          "joint_qos_outage_count": 4,
+          "joint_qos_outage_rate": 0.020833333333333332,
+          "mean_actual_weighted_throughput_bps": 178258366.04166666,
+          "mean_prediction_nmse": 0.5122508977850279,
+          "mean_control_time_s": 0.0015848348958324248,
+          "maximum_constraint_violation": 2.384185791015625e-07,
+          "mean_design_payload_bits": 16.0,
+          "minimum_design_payload_bits": 16.0,
+          "maximum_design_payload_bits": 16.0
+        }
+      },
+      "output_directory": "results\\scans_10seed\\rician\\padu\\seed_701\\rician_2",
+      "csi_source": "probabilistic_gru_next_slot_distribution"
+    }
+  },
+  {
+    "point_key": "seed_701/rician_3",
+    "root_seed": 701,
+    "rician_factor_db": 3.0,
+    "summary": {
+      "domains": {
+        "in_domain": {
+          "completed_slots": 192,
+          "joint_qos_outage_count": 2,
+          "joint_qos_outage_rate": 0.010416666666666666,
+          "mean_actual_weighted_throughput_bps": 192319252.75,
+          "mean_prediction_nmse": 0.43980509182438254,
+          "mean_control_time_s": 0.001529884375012595,
+          "maximum_constraint_violation": 2.384185791015625e-07,
+          "mean_design_payload_bits": 16.0,
+          "minimum_design_payload_bits": 16.0,
+          "maximum_design_payload_bits": 16.0
+        }
+      },
+      "output_directory": "results\\scans_10seed\\rician\\padu\\seed_701\\rician_3",
+      "csi_source": "probabilistic_gru_next_slot_distribution"
+    }
+  },
+  {
+    "point_key": "seed_701/rician_4",
+    "root_seed": 701,
+    "rician_factor_db": 4.0,
+    "summary": {
+      "domains": {
+        "in_domain": {
+          "completed_slots": 192,
+          "joint_qos_outage_count": 2,
+          "joint_qos_outage_rate": 0.010416666666666666,
+          "mean_actual_weighted_throughput_bps": 204649360.25,
+          "mean_prediction_nmse": 0.3734534884958218,
+          "mean_control_time_s": 0.0015869026041836303,
+          "maximum_constraint_violation": 2.384185791015625e-07,
+          "mean_design_payload_bits": 16.0,
+          "minimum_design_payload_bits": 16.0,
+          "maximum_design_payload_bits": 16.0
+        }
+      },
+      "output_directory": "results\\scans_10seed\\rician\\padu\\seed_701\\rician_4",
+      "csi_source": "probabilistic_gru_next_slot_distribution"
+    }
+  },
+  {
+    "point_key": "seed_701/rician_5",
+    "root_seed": 701,
+    "rician_factor_db": 5.0,
+    "summary": {
+      "domains": {
+        "in_domain": {
+          "completed_slots": 192,
+          "joint_qos_outage_count": 0,
+          "joint_qos_outage_rate": 0.0,
+          "mean_actual_weighted_throughput_bps": 215229187.0,
+          "mean_prediction_nmse": 0.31397291854955256,
+          "mean_control_time_s": 0.0015344374999983756,
+          "maximum_constraint_violation": 2.384185791015625e-07,
+          "mean_design_payload_bits": 16.0,
+          "minimum_design_payload_bits": 16.0,
+          "maximum_design_payload_bits": 16.0
+        }
+      },
+      "output_directory": "results\\scans_10seed\\rician\\padu\\seed_701\\rician_5",
+      "csi_source": "probabilistic_gru_next_slot_distribution"
+    }
+  },
+  {
+    "point_key": "seed_701/rician_6",
+    "root_seed": 701,
+    "rician_factor_db": 6.0,
+    "summary": {
+      "domains": {
+        "in_domain": {
+          "completed_slots": 192,
+          "joint_qos_outage_count": 0,
+          "joint_qos_outage_rate": 0.0,
+          "mean_actual_weighted_throughput_bps": 224312004.91666666,
+          "mean_prediction_nmse": 0.26166477442408603,
+          "mean_control_time_s": 0.0015074390624931766,
+          "maximum_constraint_violation": 2.384185791015625e-07,
+          "mean_design_payload_bits": 16.0,
+          "minimum_design_payload_bits": 16.0,
+          "maximum_design_payload_bits": 16.0
+        }
+      },
+      "output_directory": "results\\scans_10seed\\rician\\padu\\seed_701\\rician_6",
+      "csi_source": "probabilistic_gru_next_slot_distribution"
+    }
+  },
+  {
+    "point_key": "seed_701/rician_7",
+    "root_seed": 701,
+    "rician_factor_db": 7.0,
+    "summary": {
+      "domains": {
+        "in_domain": {
+          "completed_slots": 192,
+          "joint_qos_outage_count": 0,
+          "joint_qos_outage_rate": 0.0,
+          "mean_actual_weighted_throughput_bps": 231774492.5,
+          "mean_prediction_nmse": 0.21642582002095878,
+          "mean_control_time_s": 0.0014612281249905361,
+          "maximum_constraint_violation": 2.384185791015625e-07,
+          "mean_design_payload_bits": 16.0,
+          "minimum_design_payload_bits": 16.0,
+          "maximum_design_payload_bits": 16.0
+        }
+      },
+      "output_directory": "results\\scans_10seed\\rician\\padu\\seed_701\\rician_7",
+      "csi_source": "probabilistic_gru_next_slot_distribution"
+    }
+  },
+  {
+    "point_key": "seed_801/rician_0",
+    "root_seed": 801,
+    "rician_factor_db": 0.0,
+    "summary": {
+      "domains": {
+        "in_domain": {
+          "completed_slots": 192,
+          "joint_qos_outage_count": 21,
+          "joint_qos_outage_rate": 0.109375,
+          "mean_actual_weighted_throughput_bps": 154767129.45833334,
+          "mean_prediction_nmse": 0.46358085454752046,
+          "mean_control_time_s": 0.001618869270828327,
+          "maximum_constraint_violation": 2.384185791015625e-07,
+          "mean_design_payload_bits": 16.0,
+          "minimum_design_payload_bits": 16.0,
+          "maximum_design_payload_bits": 16.0
+        }
+      },
+      "output_directory": "results\\scans_10seed\\rician\\padu\\seed_801\\rician_0",
+      "csi_source": "probabilistic_gru_next_slot_distribution"
+    }
+  },
+  {
+    "point_key": "seed_801/rician_1",
+    "root_seed": 801,
+    "rician_factor_db": 1.0,
+    "summary": {
+      "domains": {
+        "in_domain": {
+          "completed_slots": 192,
+          "joint_qos_outage_count": 7,
+          "joint_qos_outage_rate": 0.036458333333333336,
+          "mean_actual_weighted_throughput_bps": 171300749.16666666,
+          "mean_prediction_nmse": 0.4085038317522655,
+          "mean_control_time_s": 0.001633990624990626,
+          "maximum_constraint_violation": 2.384185791015625e-07,
+          "mean_design_payload_bits": 16.0,
+          "minimum_design_payload_bits": 16.0,
+          "maximum_design_payload_bits": 16.0
+        }
+      },
+      "output_directory": "results\\scans_10seed\\rician\\padu\\seed_801\\rician_1",
+      "csi_source": "probabilistic_gru_next_slot_distribution"
+    }
+  },
+  {
+    "point_key": "seed_801/rician_2",
+    "root_seed": 801,
+    "rician_factor_db": 2.0,
+    "summary": {
+      "domains": {
+        "in_domain": {
+          "completed_slots": 192,
+          "joint_qos_outage_count": 3,
+          "joint_qos_outage_rate": 0.015625,
+          "mean_actual_weighted_throughput_bps": 186371325.29166666,
+          "mean_prediction_nmse": 0.3554046483865629,
+          "mean_control_time_s": 0.0015482520833340156,
+          "maximum_constraint_violation": 2.384185791015625e-07,
+          "mean_design_payload_bits": 16.0,
+          "minimum_design_payload_bits": 16.0,
+          "maximum_design_payload_bits": 16.0
+        }
+      },
+      "output_directory": "results\\scans_10seed\\rician\\padu\\seed_801\\rician_2",
+      "csi_source": "probabilistic_gru_next_slot_distribution"
+    }
+  },
+  {
+    "point_key": "seed_801/rician_3",
+    "root_seed": 801,
+    "rician_factor_db": 3.0,
+    "summary": {
+      "domains": {
+        "in_domain": {
+          "completed_slots": 192,
+          "joint_qos_outage_count": 0,
+          "joint_qos_outage_rate": 0.0,
+          "mean_actual_weighted_throughput_bps": 199987936.29166666,
+          "mean_prediction_nmse": 0.30548919605401653,
+          "mean_control_time_s": 0.001471433854182654,
+          "maximum_constraint_violation": 2.384185791015625e-07,
+          "mean_design_payload_bits": 16.0,
+          "minimum_design_payload_bits": 16.0,
+          "maximum_design_payload_bits": 16.0
+        }
+      },
+      "output_directory": "results\\scans_10seed\\rician\\padu\\seed_801\\rician_3",
+      "csi_source": "probabilistic_gru_next_slot_distribution"
+    }
+  },
+  {
+    "point_key": "seed_801/rician_4",
+    "root_seed": 801,
+    "rician_factor_db": 4.0,
+    "summary": {
+      "domains": {
+        "in_domain": {
+          "completed_slots": 192,
+          "joint_qos_outage_count": 0,
+          "joint_qos_outage_rate": 0.0,
+          "mean_actual_weighted_throughput_bps": 211852141.83333334,
+          "mean_prediction_nmse": 0.259668099344708,
+          "mean_control_time_s": 0.001440064583344262,
+          "maximum_constraint_violation": 2.384185791015625e-07,
+          "mean_design_payload_bits": 16.0,
+          "minimum_design_payload_bits": 16.0,
+          "maximum_design_payload_bits": 16.0
+        }
+      },
+      "output_directory": "results\\scans_10seed\\rician\\padu\\seed_801\\rician_4",
+      "csi_source": "probabilistic_gru_next_slot_distribution"
+    }
+  },
+  {
+    "point_key": "seed_801/rician_5",
+    "root_seed": 801,
+    "rician_factor_db": 5.0,
+    "summary": {
+      "domains": {
+        "in_domain": {
+          "completed_slots": 192,
+          "joint_qos_outage_count": 0,
+          "joint_qos_outage_rate": 0.0,
+          "mean_actual_weighted_throughput_bps": 221965738.5,
+          "mean_prediction_nmse": 0.2185104035306722,
+          "mean_control_time_s": 0.0016021682291504173,
+          "maximum_constraint_violation": 2.384185791015625e-07,
+          "mean_design_payload_bits": 16.0,
+          "minimum_design_payload_bits": 16.0,
+          "maximum_design_payload_bits": 16.0
+        }
+      },
+      "output_directory": "results\\scans_10seed\\rician\\padu\\seed_801\\rician_5",
+      "csi_source": "probabilistic_gru_next_slot_distribution"
+    }
+  },
+  {
+    "point_key": "seed_801/rician_6",
+    "root_seed": 801,
+    "rician_factor_db": 6.0,
+    "summary": {
+      "domains": {
+        "in_domain": {
+          "completed_slots": 192,
+          "joint_qos_outage_count": 0,
+          "joint_qos_outage_rate": 0.0,
+          "mean_actual_weighted_throughput_bps": 230499300.0,
+          "mean_prediction_nmse": 0.18225315457675606,
+          "mean_control_time_s": 0.00147286041665969,
+          "maximum_constraint_violation": 2.384185791015625e-07,
+          "mean_design_payload_bits": 16.0,
+          "minimum_design_payload_bits": 16.0,
+          "maximum_design_payload_bits": 16.0
+        }
+      },
+      "output_directory": "results\\scans_10seed\\rician\\padu\\seed_801\\rician_6",
+      "csi_source": "probabilistic_gru_next_slot_distribution"
+    }
+  },
+  {
+    "point_key": "seed_801/rician_7",
+    "root_seed": 801,
+    "rician_factor_db": 7.0,
+    "summary": {
+      "domains": {
+        "in_domain": {
+          "completed_slots": 192,
+          "joint_qos_outage_count": 0,
+          "joint_qos_outage_rate": 0.0,
+          "mean_actual_weighted_throughput_bps": 237771185.25,
+          "mean_prediction_nmse": 0.1508532491279766,
+          "mean_control_time_s": 0.0014916968749976907,
+          "maximum_constraint_violation": 2.384185791015625e-07,
+          "mean_design_payload_bits": 16.0,
+          "minimum_design_payload_bits": 16.0,
+          "maximum_design_payload_bits": 16.0
+        }
+      },
+      "output_directory": "results\\scans_10seed\\rician\\padu\\seed_801\\rician_7",
+      "csi_source": "probabilistic_gru_next_slot_distribution"
+    }
+  },
+  {
+    "point_key": "seed_901/rician_0",
+    "root_seed": 901,
+    "rician_factor_db": 0.0,
+    "summary": {
+      "domains": {
+        "in_domain": {
+          "completed_slots": 192,
+          "joint_qos_outage_count": 24,
+          "joint_qos_outage_rate": 0.125,
+          "mean_actual_weighted_throughput_bps": 151035707.64583334,
+          "mean_prediction_nmse": 0.6230516382493079,
+          "mean_control_time_s": 0.0014800723958406554,
+          "maximum_constraint_violation": 2.384185791015625e-07,
+          "mean_design_payload_bits": 16.0,
+          "minimum_design_payload_bits": 16.0,
+          "maximum_design_payload_bits": 16.0
+        }
+      },
+      "output_directory": "results\\scans_10seed\\rician\\padu\\seed_901\\rician_0",
+      "csi_source": "probabilistic_gru_next_slot_distribution"
+    }
+  },
+  {
+    "point_key": "seed_901/rician_1",
+    "root_seed": 901,
+    "rician_factor_db": 1.0,
+    "summary": {
+      "domains": {
+        "in_domain": {
+          "completed_slots": 192,
+          "joint_qos_outage_count": 9,
+          "joint_qos_outage_rate": 0.046875,
+          "mean_actual_weighted_throughput_bps": 167341669.79166666,
+          "mean_prediction_nmse": 0.5484310744019846,
+          "mean_control_time_s": 0.0015416291666667803,
+          "maximum_constraint_violation": 2.384185791015625e-07,
+          "mean_design_payload_bits": 16.0,
+          "minimum_design_payload_bits": 16.0,
+          "maximum_design_payload_bits": 16.0
+        }
+      },
+      "output_directory": "results\\scans_10seed\\rician\\padu\\seed_901\\rician_1",
+      "csi_source": "probabilistic_gru_next_slot_distribution"
+    }
+  },
+  {
+    "point_key": "seed_901/rician_2",
+    "root_seed": 901,
+    "rician_factor_db": 2.0,
+    "summary": {
+      "domains": {
+        "in_domain": {
+          "completed_slots": 192,
+          "joint_qos_outage_count": 1,
+          "joint_qos_outage_rate": 0.005208333333333333,
+          "mean_actual_weighted_throughput_bps": 182431718.875,
+          "mean_prediction_nmse": 0.47663282649591565,
+          "mean_control_time_s": 0.0014733036458286126,
+          "maximum_constraint_violation": 2.384185791015625e-07,
+          "mean_design_payload_bits": 16.0,
+          "minimum_design_payload_bits": 16.0,
+          "maximum_design_payload_bits": 16.0
+        }
+      },
+      "output_directory": "results\\scans_10seed\\rician\\padu\\seed_901\\rician_2",
+      "csi_source": "probabilistic_gru_next_slot_distribution"
+    }
+  },
+  {
+    "point_key": "seed_901/rician_3",
+    "root_seed": 901,
+    "rician_factor_db": 3.0,
+    "summary": {
+      "domains": {
+        "in_domain": {
+          "completed_slots": 192,
+          "joint_qos_outage_count": 0,
+          "joint_qos_outage_rate": 0.0,
+          "mean_actual_weighted_throughput_bps": 195636980.58333334,
+          "mean_prediction_nmse": 0.40926889842376113,
+          "mean_control_time_s": 0.0014429468750070857,
+          "maximum_constraint_violation": 2.384185791015625e-07,
+          "mean_design_payload_bits": 16.0,
+          "minimum_design_payload_bits": 16.0,
+          "maximum_design_payload_bits": 16.0
+        }
+      },
+      "output_directory": "results\\scans_10seed\\rician\\padu\\seed_901\\rician_3",
+      "csi_source": "probabilistic_gru_next_slot_distribution"
+    }
+  },
+  {
+    "point_key": "seed_901/rician_4",
+    "root_seed": 901,
+    "rician_factor_db": 4.0,
+    "summary": {
+      "domains": {
+        "in_domain": {
+          "completed_slots": 192,
+          "joint_qos_outage_count": 0,
+          "joint_qos_outage_rate": 0.0,
+          "mean_actual_weighted_throughput_bps": 207101676.08333334,
+          "mean_prediction_nmse": 0.3475434691645205,
+          "mean_control_time_s": 0.0015478583333106144,
+          "maximum_constraint_violation": 2.384185791015625e-07,
+          "mean_design_payload_bits": 16.0,
+          "minimum_design_payload_bits": 16.0,
+          "maximum_design_payload_bits": 16.0
+        }
+      },
+      "output_directory": "results\\scans_10seed\\rician\\padu\\seed_901\\rician_4",
+      "csi_source": "probabilistic_gru_next_slot_distribution"
+    }
+  },
+  {
+    "point_key": "seed_901/rician_5",
+    "root_seed": 901,
+    "rician_factor_db": 5.0,
+    "summary": {
+      "domains": {
+        "in_domain": {
+          "completed_slots": 192,
+          "joint_qos_outage_count": 0,
+          "joint_qos_outage_rate": 0.0,
+          "mean_actual_weighted_throughput_bps": 216988414.41666666,
+          "mean_prediction_nmse": 0.29219692347881693,
+          "mean_control_time_s": 0.001436577604171892,
+          "maximum_constraint_violation": 2.384185791015625e-07,
+          "mean_design_payload_bits": 16.0,
+          "minimum_design_payload_bits": 16.0,
+          "maximum_design_payload_bits": 16.0
+        }
+      },
+      "output_directory": "results\\scans_10seed\\rician\\padu\\seed_901\\rician_5",
+      "csi_source": "probabilistic_gru_next_slot_distribution"
+    }
+  },
+  {
+    "point_key": "seed_901/rician_6",
+    "root_seed": 901,
+    "rician_factor_db": 6.0,
+    "summary": {
+      "domains": {
+        "in_domain": {
+          "completed_slots": 192,
+          "joint_qos_outage_count": 0,
+          "joint_qos_outage_rate": 0.0,
+          "mean_actual_weighted_throughput_bps": 225268075.91666666,
+          "mean_prediction_nmse": 0.24351798176455,
+          "mean_control_time_s": 0.001542017187498838,
+          "maximum_constraint_violation": 2.384185791015625e-07,
+          "mean_design_payload_bits": 16.0,
+          "minimum_design_payload_bits": 16.0,
+          "maximum_design_payload_bits": 16.0
+        }
+      },
+      "output_directory": "results\\scans_10seed\\rician\\padu\\seed_901\\rician_6",
+      "csi_source": "probabilistic_gru_next_slot_distribution"
+    }
+  },
+  {
+    "point_key": "seed_901/rician_7",
+    "root_seed": 901,
+    "rician_factor_db": 7.0,
+    "summary": {
+      "domains": {
+        "in_domain": {
+          "completed_slots": 192,
+          "joint_qos_outage_count": 0,
+          "joint_qos_outage_rate": 0.0,
+          "mean_actual_weighted_throughput_bps": 232177304.16666666,
+          "mean_prediction_nmse": 0.20141976978629827,
+          "mean_control_time_s": 0.0014843729166595192,
+          "maximum_constraint_violation": 1.1920928955078125e-07,
+          "mean_design_payload_bits": 16.0,
+          "minimum_design_payload_bits": 16.0,
+          "maximum_design_payload_bits": 16.0
+        }
+      },
+      "output_directory": "results\\scans_10seed\\rician\\padu\\seed_901\\rician_7",
+      "csi_source": "probabilistic_gru_next_slot_distribution"
+    }
+  },
+  {
+    "point_key": "seed_1001/rician_0",
+    "root_seed": 1001,
+    "rician_factor_db": 0.0,
+    "summary": {
+      "domains": {
+        "in_domain": {
+          "completed_slots": 192,
+          "joint_qos_outage_count": 20,
+          "joint_qos_outage_rate": 0.10416666666666667,
+          "mean_actual_weighted_throughput_bps": 155998971.83333334,
+          "mean_prediction_nmse": 0.6443970985710621,
+          "mean_control_time_s": 0.001632189583337625,
+          "maximum_constraint_violation": 2.384185791015625e-07,
+          "mean_design_payload_bits": 16.0,
+          "minimum_design_payload_bits": 16.0,
+          "maximum_design_payload_bits": 16.0
+        }
+      },
+      "output_directory": "results\\scans_10seed\\rician\\padu\\seed_1001\\rician_0",
+      "csi_source": "probabilistic_gru_next_slot_distribution"
+    }
+  },
+  {
+    "point_key": "seed_1001/rician_1",
+    "root_seed": 1001,
+    "rician_factor_db": 1.0,
+    "summary": {
+      "domains": {
+        "in_domain": {
+          "completed_slots": 192,
+          "joint_qos_outage_count": 6,
+          "joint_qos_outage_rate": 0.03125,
+          "mean_actual_weighted_throughput_bps": 173900756.95833334,
+          "mean_prediction_nmse": 0.5677911204596361,
+          "mean_control_time_s": 0.0015975473958273294,
+          "maximum_constraint_violation": 2.384185791015625e-07,
+          "mean_design_payload_bits": 16.0,
+          "minimum_design_payload_bits": 16.0,
+          "maximum_design_payload_bits": 16.0
+        }
+      },
+      "output_directory": "results\\scans_10seed\\rician\\padu\\seed_1001\\rician_1",
+      "csi_source": "probabilistic_gru_next_slot_distribution"
+    }
+  },
+  {
+    "point_key": "seed_1001/rician_2",
+    "root_seed": 1001,
+    "rician_factor_db": 2.0,
+    "summary": {
+      "domains": {
+        "in_domain": {
+          "completed_slots": 192,
+          "joint_qos_outage_count": 2,
+          "joint_qos_outage_rate": 0.010416666666666666,
+          "mean_actual_weighted_throughput_bps": 190039085.0,
+          "mean_prediction_nmse": 0.4939814214594662,
+          "mean_control_time_s": 0.0015041140624987293,
+          "maximum_constraint_violation": 2.384185791015625e-07,
+          "mean_design_payload_bits": 16.0,
+          "minimum_design_payload_bits": 16.0,
+          "maximum_design_payload_bits": 16.0
+        }
+      },
+      "output_directory": "results\\scans_10seed\\rician\\padu\\seed_1001\\rician_2",
+      "csi_source": "probabilistic_gru_next_slot_distribution"
+    }
+  },
+  {
+    "point_key": "seed_1001/rician_3",
+    "root_seed": 1001,
+    "rician_factor_db": 3.0,
+    "summary": {
+      "domains": {
+        "in_domain": {
+          "completed_slots": 192,
+          "joint_qos_outage_count": 0,
+          "joint_qos_outage_rate": 0.0,
+          "mean_actual_weighted_throughput_bps": 204208128.83333334,
+          "mean_prediction_nmse": 0.42462990308801335,
+          "mean_control_time_s": 0.0014505119791768568,
+          "maximum_constraint_violation": 2.384185791015625e-07,
+          "mean_design_payload_bits": 16.0,
+          "minimum_design_payload_bits": 16.0,
+          "maximum_design_payload_bits": 16.0
+        }
+      },
+      "output_directory": "results\\scans_10seed\\rician\\padu\\seed_1001\\rician_3",
+      "csi_source": "probabilistic_gru_next_slot_distribution"
+    }
+  },
+  {
+    "point_key": "seed_1001/rician_4",
+    "root_seed": 1001,
+    "rician_factor_db": 4.0,
+    "summary": {
+      "domains": {
+        "in_domain": {
+          "completed_slots": 192,
+          "joint_qos_outage_count": 0,
+          "joint_qos_outage_rate": 0.0,
+          "mean_actual_weighted_throughput_bps": 216884354.33333334,
+          "mean_prediction_nmse": 0.3609843001080056,
+          "mean_control_time_s": 0.001702842708340313,
+          "maximum_constraint_violation": 2.384185791015625e-07,
+          "mean_design_payload_bits": 16.0,
+          "minimum_design_payload_bits": 16.0,
+          "maximum_design_payload_bits": 16.0
+        }
+      },
+      "output_directory": "results\\scans_10seed\\rician\\padu\\seed_1001\\rician_4",
+      "csi_source": "probabilistic_gru_next_slot_distribution"
+    }
+  },
+  {
+    "point_key": "seed_1001/rician_5",
+    "root_seed": 1001,
+    "rician_factor_db": 5.0,
+    "summary": {
+      "domains": {
+        "in_domain": {
+          "completed_slots": 192,
+          "joint_qos_outage_count": 0,
+          "joint_qos_outage_rate": 0.0,
+          "mean_actual_weighted_throughput_bps": 227944772.91666666,
+          "mean_prediction_nmse": 0.30381913917760056,
+          "mean_control_time_s": 0.0014331260416705998,
+          "maximum_constraint_violation": 2.384185791015625e-07,
+          "mean_design_payload_bits": 16.0,
+          "minimum_design_payload_bits": 16.0,
+          "maximum_design_payload_bits": 16.0
+        }
+      },
+      "output_directory": "results\\scans_10seed\\rician\\padu\\seed_1001\\rician_5",
+      "csi_source": "probabilistic_gru_next_slot_distribution"
+    }
+  },
+  {
+    "point_key": "seed_1001/rician_6",
+    "root_seed": 1001,
+    "rician_factor_db": 6.0,
+    "summary": {
+      "domains": {
+        "in_domain": {
+          "completed_slots": 192,
+          "joint_qos_outage_count": 0,
+          "joint_qos_outage_rate": 0.0,
+          "mean_actual_weighted_throughput_bps": 237249435.83333334,
+          "mean_prediction_nmse": 0.2534538408120473,
+          "mean_control_time_s": 0.0016301213541680681,
+          "maximum_constraint_violation": 2.384185791015625e-07,
+          "mean_design_payload_bits": 16.0,
+          "minimum_design_payload_bits": 16.0,
+          "maximum_design_payload_bits": 16.0
+        }
+      },
+      "output_directory": "results\\scans_10seed\\rician\\padu\\seed_1001\\rician_6",
+      "csi_source": "probabilistic_gru_next_slot_distribution"
+    }
+  },
+  {
+    "point_key": "seed_1001/rician_7",
+    "root_seed": 1001,
+    "rician_factor_db": 7.0,
+    "summary": {
+      "domains": {
+        "in_domain": {
+          "completed_slots": 192,
+          "joint_qos_outage_count": 0,
+          "joint_qos_outage_rate": 0.0,
+          "mean_actual_weighted_throughput_bps": 245043559.5,
+          "mean_prediction_nmse": 0.20982089444684485,
+          "mean_control_time_s": 0.0015653567708303247,
+          "maximum_constraint_violation": 2.384185791015625e-07,
+          "mean_design_payload_bits": 16.0,
+          "minimum_design_payload_bits": 16.0,
+          "maximum_design_payload_bits": 16.0
+        }
+      },
+      "output_directory": "results\\scans_10seed\\rician\\padu\\seed_1001\\rician_7",
+      "csi_source": "probabilistic_gru_next_slot_distribution"
+    }
+  }
+]

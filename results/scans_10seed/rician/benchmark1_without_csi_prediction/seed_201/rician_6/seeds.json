@@ -1,0 +1,24 @@
+{
+  "root_seed": 201,
+  "streams": {
+    "deployment": 2663447816,
+    "gru_training_tasks": 1568669181,
+    "gru_validation_tasks": 471157648,
+    "cold_start_tasks": 1890173340,
+    "meta_training_tasks": 269846250,
+    "meta_validation_tasks": 3179110744,
+    "in_domain_test_tasks": 2910109411,
+    "out_of_domain_test_tasks": 1380353189,
+    "gru_model_initialization": 681840302,
+    "gru_training": 2841004563,
+    "cold_start_sampling": 1064417876,
+    "warm_start_model_initialization": 879239453,
+    "meta_training": 886005317,
+    "passive_model_initialization": 577215567,
+    "passive_meta_training": 3893218837,
+    "joint_model_initialization": 1316033666,
+    "joint_training": 1899305124,
+    "in_domain_execution": 61753285,
+    "out_of_domain_execution": 2482357520
+  }
+}

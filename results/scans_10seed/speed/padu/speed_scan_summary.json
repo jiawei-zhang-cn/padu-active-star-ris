@@ -1,0 +1,80 @@
+[
+  {
+    "domain": "in_domain",
+    "speed_m_per_s": 0.3,
+    "evaluation_seed_count": 10,
+    "completed_slots": 1920,
+    "joint_qos_outage_count": 0,
+    "joint_qos_outage_rate": 0.0,
+    "mean_seed_actual_weighted_throughput_bps": 215285589.74166667,
+    "std_seed_actual_weighted_throughput_bps": 12673277.75691724,
+    "pooled_actual_weighted_throughput_bps": 215285589.74166667,
+    "mean_seed_joint_qos_effective_throughput_bps": 215285589.74166667,
+    "std_seed_joint_qos_effective_throughput_bps": 12673277.75691724
+  },
+  {
+    "domain": "in_domain",
+    "speed_m_per_s": 0.6,
+    "evaluation_seed_count": 10,
+    "completed_slots": 1920,
+    "joint_qos_outage_count": 0,
+    "joint_qos_outage_rate": 0.0,
+    "mean_seed_actual_weighted_throughput_bps": 214909031.80833334,
+    "std_seed_actual_weighted_throughput_bps": 12163775.636949243,
+    "pooled_actual_weighted_throughput_bps": 214909031.80833334,
+    "mean_seed_joint_qos_effective_throughput_bps": 214909031.80833334,
+    "std_seed_joint_qos_effective_throughput_bps": 12163775.636949243
+  },
+  {
+    "domain": "in_domain",
+    "speed_m_per_s": 0.9,
+    "evaluation_seed_count": 10,
+    "completed_slots": 1920,
+    "joint_qos_outage_count": 0,
+    "joint_qos_outage_rate": 0.0,
+    "mean_seed_actual_weighted_throughput_bps": 212638746.675,
+    "std_seed_actual_weighted_throughput_bps": 12368011.814640598,
+    "pooled_actual_weighted_throughput_bps": 212638746.675,
+    "mean_seed_joint_qos_effective_throughput_bps": 212638746.675,
+    "std_seed_joint_qos_effective_throughput_bps": 12368011.814640598
+  },
+  {
+    "domain": "in_domain",
+    "speed_m_per_s": 1.2,
+    "evaluation_seed_count": 10,
+    "completed_slots": 1920,
+    "joint_qos_outage_count": 4,
+    "joint_qos_outage_rate": 0.0020833333333333333,
+    "mean_seed_actual_weighted_throughput_bps": 210147734.07083333,
+    "std_seed_actual_weighted_throughput_bps": 12691395.406496802,
+    "pooled_actual_weighted_throughput_bps": 210147734.07083333,
+    "mean_seed_joint_qos_effective_throughput_bps": 209776192.0875,
+    "std_seed_joint_qos_effective_throughput_bps": 13203946.443070631
+  },
+  {
+    "domain": "in_domain",
+    "speed_m_per_s": 1.5,
+    "evaluation_seed_count": 10,
+    "completed_slots": 1920,
+    "joint_qos_outage_count": 8,
+    "joint_qos_outage_rate": 0.004166666666666667,
+    "mean_seed_actual_weighted_throughput_bps": 207558470.74166667,
+    "std_seed_actual_weighted_throughput_bps": 13048834.289824788,
+    "pooled_actual_weighted_throughput_bps": 207558470.74166667,
+    "mean_seed_joint_qos_effective_throughput_bps": 206871677.44166666,
+    "std_seed_joint_qos_effective_throughput_bps": 13642059.297582358
+  },
+  {
+    "domain": "in_domain",
+    "speed_m_per_s": 1.8,
+    "evaluation_seed_count": 10,
+    "completed_slots": 1920,
+    "joint_qos_outage_count": 11,
+    "joint_qos_outage_rate": 0.005729166666666666,
+    "mean_seed_actual_weighted_throughput_bps": 205032163.02083334,
+    "std_seed_actual_weighted_throughput_bps": 13464399.695781652,
+    "pooled_actual_weighted_throughput_bps": 205032163.02083334,
+    "mean_seed_joint_qos_effective_throughput_bps": 204146411.4125,
+    "std_seed_joint_qos_effective_throughput_bps": 14264437.769229311
+  }
+]

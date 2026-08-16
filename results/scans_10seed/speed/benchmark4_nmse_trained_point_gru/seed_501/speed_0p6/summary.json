@@ -1,0 +1,18 @@
+{
+  "domains": {
+    "in_domain": {
+      "completed_slots": 192,
+      "joint_qos_outage_count": 0,
+      "joint_qos_outage_rate": 0.0,
+      "mean_actual_weighted_throughput_bps": 222000097.75,
+      "mean_prediction_nmse": 0.14174818367852518,
+      "mean_control_time_s": 0.001644521875003117,
+      "maximum_constraint_violation": 2.384185791015625e-07,
+      "mean_design_payload_bits": 16.0,
+      "minimum_design_payload_bits": 16.0,
+      "maximum_design_payload_bits": 16.0
+    }
+  },
+  "output_directory": "results\\scans_10seed\\speed\\benchmark4_nmse_trained_point_gru\\seed_501\\speed_0p6",
+  "csi_source": "gru_next_slot_prediction"
+}
